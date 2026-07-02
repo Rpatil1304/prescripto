@@ -1,0 +1,1 @@
+"""Prescription preview component."""

@@ -1,0 +1,24 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Project data and outputs
+data/raw/
+outputs/generated_prescriptions/
+models/mlflow_runs/
+
+# Local OS files
+Thumbs.db
+.DS_Store

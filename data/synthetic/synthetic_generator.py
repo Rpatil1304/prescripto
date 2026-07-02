@@ -1,0 +1,1 @@
+"""Synthetic prescription data generator."""

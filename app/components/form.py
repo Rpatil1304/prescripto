@@ -1,0 +1,1 @@
+"""Doctor input form component."""
