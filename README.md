@@ -3,7 +3,7 @@
 **AI-Powered Multilingual Prescription Generator & WhatsApp Delivery System**
 
 A deep learning-based clinical workflow tool that lets doctors generate and deliver
-digital prescriptions to patients instantly via WhatsApp — in English, Hindi, and Marathi.
+digital prescriptions to patients instantly via WhatsApp - in English, Hindi, and Marathi.
 
 ### The Problem
 Prescriptions in Indian clinics are still largely handwritten, illegible, and
@@ -27,11 +27,11 @@ prescription text, and phone number) and, in a single click:
 
 ### Key Features
 - 🧠 Custom NER model trained on real (MTSamples) and synthetic clinical text
-- 🌐 Multilingual output — English, Hindi, Marathi — from a single input
+- 🌐 Multilingual output - English, Hindi, Marathi - from a single input
 - 🖼️ Auto-generated, print-ready prescription images
 - 📲 One-click WhatsApp delivery to the patient
 - 📊 Experiment tracking via MLflow for model iteration
-- 🖥️ Simple Streamlit interface — no technical skill required for doctors
+- 🖥️ Simple Streamlit interface - no technical skill required for doctors
 
 ### Tech Stack
 | Component | Technology |
@@ -45,7 +45,7 @@ prescription text, and phone number) and, in a single click:
 | Annotation | Label Studio (BIO tagging) |
 
 ### Why This Project
-Built to demonstrate an end-to-end applied ML pipeline — from raw clinical
+Built to demonstrate an end-to-end applied ML pipeline - from raw clinical
 text and manual annotation, through model training and evaluation, to a
-real-world deployable product with third-party API integration — rather
+real-world deployable product with third-party API integration rather
 than an isolated notebook experiment.
