@@ -1,0 +1,701 @@
+file,specialty,section,sentence,dosage_signals,frequency_signals,duration_signals,druglike_tokens,priority_score
+1960.html,Nephrology,MEDICATIONS,"Triglide 50 mg daily, Prevacid 30 mg daily, Plavix 75 mg daily, potassium 10 mEq daily, Lasix 60 mg daily, folate 1 mg b.i.d., Niaspan 500 mg daily, atenolol 50 mg daily, enalapril 10 mg b.i.d., glyburide 10 mg b.i.d., Xanax 0.25 mg b.i.d., aspirin 325 mg daily, Tylenol p.r.n., Zantac 150 mg b.i.d., Crestor 5 mg daily, TriCor 145 mg daily, Digitek 0.125 mg daily, Celexa 20 mg daily, and Flomax 0.4 mg daily.",17,0,0,11,62
+526.html,Consult - History and Phy.,MEDICATIONS,"From the list by the nursing home are Aricept 10 mg in the evening, carbidopa/levodopa 25/100 mg three times a day, citalopram (Celexa) 40 mg daily, Colace 100 mg twice a day, finasteride (Proscar) 5 mg once a day, Flomax (tamsulosin) 0.4 mg once a day, multivitamin with iron once a day, omeprazole (Prilosec) 20 mg once a day, senna 8.6 mg twice a day, Tylenol 650 mg as needed, and promethazine 25 mg as needed.",10,7,0,7,58
+2023.html,Nephrology,MEDICATIONS,"Singulair 10 mg once daily, Cardizem 365 mg once daily, Coreg 25 mg once daily, hydralazine 100 mg three times a day, Lanoxin 0.125 mg once daily, Crestor 10 mg once daily, lisinopril 10 mg once daily, Phoslo 3 tablets with meals, and Advair 250 mg inhaler b.i.d.",9,7,0,6,54
+3217.html,Psychiatry / Psychology,DISCHARGE MEDICATIONS,"p.r.n., Lasix 80 mg daily, Isordil 10 mg t.i.d., KCl 20 mEq b.i.d., lactulose 10 g daily, Cozaar 50 mg daily, Synthroid 75 mcg daily, Singulair 10 mg daily, Lumigan one drop both eyes at bed time, NitroQuick p.r.n., Pravachol 20 mg daily, Feldene 20 mg daily, Paxil 20 mg daily, Minipress 2 mg daily, Provera p.r.n., Advair 250/50 one puff b.i.d., Senokot one tablet b.i.d., Timoptic one drop OU daily, and verapamil 80 mg b.i.d.",11,0,0,14,47
+1969.html,Nephrology,MEDICATIONS,"Starlix 120 mg b.i.d., Compazine b.i.d., aspirin 81 mg daily, Plavix 75 mg daily, glipizide 15 mg b.i.d., multivitamin daily, potassium 10 mEq daily, Cozaar 25 mg daily, Prilosec 20 mg daily, digoxin 0.125 mg every other day, vitamin C 250 mg daily, ferrous sulphate 325 mg b.i.d., metoprolol 6.25 mg daily, Lasix 80 mg b.i.d., Flomax 0.4 mg daily, Zocor 80 mg daily, and Tylenol p.r.n.",13,0,0,8,47
+628.html,Consult - History and Phy.,CURRENT MEDICATIONS,"Acetaminophen 325 mg 2 tablets twice daily, Coreg 6.25 mg twice daily, Docusate sodium 100 mg 1 cap twice daily, ibuprofen 600 mg twice daily with food, Lidoderm patch 5% to apply 1 patch to both knees every morning and off in the evening, one vitamin daily, ferrous sulfate 325 mg daily, furosemide 20 mg q.a.m., Tapazole 5 mg daily, potassium chloride 10 mEq daily, Zoloft 50 mg daily, Ensure t.i.d., and p.r.n.",9,4,0,6,45
+2153.html,Neurology,MEDICATIONS,"Rhinocort 32 mg two sprays a day, Singulair 10 mg once a day, Xyzal 5 mg in the morning, Spiriva once a day, Advair twice a day, Prevacid 30 mg twice a day, Os-Cal 500 mg once a day, multivitamin once a day, and aspirin 81 mg a day.",6,6,0,5,41
+1220.html,Endocrinology,MEDICATIONS,"Include glipizide 5 mg b.i.d., metformin 500 mg b.i.d., Atacand 16 mg daily, metoprolol 25 mg b.i.d., Lipitor 10 mg daily, pantoprazole 40 mg daily, Flomax 0.4 mg daily, Detrol 4 mg daily, Zyrtec 10 mg daily, Advair Diskus 100/50 mcg one puff b.i.d., and fluticasone spray 50 mcg two sprays daily.",11,0,0,7,40
+3690.html,SOAP / Chart / Progress Notes,CURRENT MEDICATIONS,"Levothyroxine 200 mcg q.d., Nexium 40 mg q.d., Celebrex 200 mg q.d., vitamin D3 2000 IU q.d., aspirin 81 mg q.d., selenium 200 mg q.d., Aricept 10 mg q.d., Skelaxin 800 mg q.d., ropinirole 1 mg q.d., vitamin E 1000 IU q.d., vitamin C 500 mg q.d., flaxseed oil 100 mg daily, fish oil 100 units q.d., Vicodin q.h.s., and stool softener q.d.",11,0,0,5,38
+321.html,Cardiovascular / Pulmonary,CURRENT MEDICATIONS,"Synthroid 0.112 mg daily; Prilosec 20 mg daily; prednisone, she was 2.5 mg daily, but discontinued this on 06/16/2004; Plaquenil 200 mg b.i.d.; Imuran 100 mg daily; Advair one puff b.i.d.; Premarin 0.3 mg daily; Lipitor 10 mg Monday through Friday; Actonel 35 mg weekly; and aspirin 81 mg daily.",9,0,0,9,36
+3651.html,SOAP / Chart / Progress Notes,CURRENT MEDICATIONS,"Metronidazole 250 mg q.i.d., Lortab 5/500 b.i.d., Allegra 180 mg daily, Levothroid 100 mcg daily, Lasix 20 mg daily, Flomax 0.4 mg at h.s., aspirin 81 mg daily, Celexa 40 mg daily, verapamil SR 180 mg one and a half tablet daily, Zetia 10 mg daily, Feosol b.i.d.",9,0,0,8,35
+525.html,Consult - History and Phy.,MEDICATIONS,"Tramadol 50 mg every 4 to 6 hours p.r.n., hydrocodone 7.5 mg/500 mg every 6 hours p.r.n., zolpidem 10 mg at bedtime, triamterene 37.5 mg, atenolol 50 mg, vitamin D, TriCor 145 mg, simvastatin 20 mg, ibuprofen 600 mg t.i.d., and Lyrica 75 mg.",10,1,0,1,34
+1063.html,Discharge Summary,DISCHARGE MEDICATIONS,"Prednisolone 60 mg orally once daily, albuterol 2.5 mg nebulized every 4 hours, Atrovent Respules to be nebulized every 6 hours, Pulmicort 500 micrograms nebulized twice every 8 hours, Coumadin 5 mg orally once daily, magnesium oxide 200 mg orally once daily.",4,6,0,4,34
+1884.html,Hematology - Oncology,CURRENT MEDICATIONS,"to be altered monthly with doxycycline 100 mg q.d., Coumadin 5 mg on Monday and 2.5 mg on all other days, dicyclomine 10 mg q.d., Coreg 6.25 mg b.i.d., Vasotec 2.5 mg b.i.d., Zantac 150 mg q.d., Claritin D q.d., Centrum q.d., calcium q.d., omega-3 b.i.d., Metamucil q.d., and Lasix 40 mg t.i.d.",8,0,0,9,33
+2144.html,Neurology,MEDICATIONS,"Percocet 5/325 mg 4-6 hours p.r.n., Neurontin 100 mg per day, insulin, Protonix 40 mg per day, Toprol-XL 50 mg q.d., Norvasc 10 mg q.d., glipizide 10 mg q.d., fluticasone 50 mcg nasal spray, Lasix 20 mg b.i.d., and Zocor 1 mg q.d.",9,0,0,5,32
+2010.html,Nephrology,MEDICATIONS,"Gengraf 125/50 mg daily, CellCept 500 mg q.i.d., acyclovir 800 mg q.i.d., DexFol daily, ferrous sulfate Mondays, Wednesdays and Fridays, metoprolol 50 mg b.i.d., vitamin C daily, baby aspirin 81 mg daily, Bactrim Single Strength daily, Cozaar 50 mg daily, WelChol 625 mg daily, and Pravachol 10 mg daily.",8,0,0,8,32
+303.html,Cardiovascular / Pulmonary,MEDICATIONS,"Tapazole 10 mg b.i.d., atenolol/chlorthalidone 50/25 mg b.i.d., Micro-K 10 mEq q.d., Lanoxin 0.125 mg q.d., spironolactone 25 mg q.d., Crestor 10 mg q.h.s., famotidine 20 mg, Bayer Aspirin 81 mg q.d., Vicodin p.r.n., and Nexium 40 mg-given samples of this today.",8,0,0,6,30
+1489.html,Gastroenterology,MEDICATIONS,"Feosol 325 mg daily, multivitamins one daily, Protonix 40 mg b.i.d., KCl 20 mEq daily, Lasix 40 mg b.i.d., atenolol 50 mg daily, Synthroid 80 mcg daily, Actos 30 mg daily, Mevacor 40 mg daily, and lisinopril 20 mg daily.",8,0,0,5,29
+2217.html,Neurology,MEDICATIONS,"Metformin 500 mg three times a day, Lipitor 10 mg per day, lisinopril 20 mg per day, metoprolol 50 mg per day, Uroxatral 10 mg per day, Detrol LA 4 mg per day, and aspirin 81 mg per day.",7,1,0,3,27
+530.html,Consult - History and Phy.,MEDICATIONS,"His medications are lisinopril 40 mg daily, hydrochlorothiazide 25 mg daily, metformin 1000 mg twice a day, Januvia 100 mg daily, clonazepam 10 mg at bedtime for restless legs syndrome, Crestor 10 mg nightly, and Flomax 0.4 mg daily.",7,1,0,3,27
+1642.html,General Medicine,MEDICATIONS,"Nifedipine-XR 90 mg daily, furosemide 20 mg half tablet b.i.d., lisinopril 20 mg daily, gemfibrozil 600 mg b.i.d., Synthroid 0.1 mg daily, Miacalcin one spray in alternate nostrils daily, Ogen 0.625 mg daily, Daypro 600 mg t.i.d., also Lortab 7.5 two or three a day, also Flexeril occasionally, also other vitamin.",7,0,0,6,27
+3672.html,SOAP / Chart / Progress Notes,CURRENT MEDICATIONS,"every other day, aspirin 81 mg daily, Theragran-M daily, Toprol XL 25 mg daily, vitamin B6 100 mg daily, Prevacid 30 mg daily, Oyster Shell calcium with D 500 mg t.i.d., Aricept 5 mg daily, Tylenol 650 mg q.4h.",7,0,0,6,27
+1909.html,Hospice - Palliative Care,MEDICATIONS,"He is on Coreg 3.125 mg a day, lisinopril 5 mg a day, Coumadin 2.5 mg a day, digoxin 0.125 mg every other day, Lasix 80 mg twice daily, Inspra twice daily, and he is on a transdermal nitro patch 12 hours on and 12 hours off.",5,2,0,4,25
+3631.html,SOAP / Chart / Progress Notes,CURRENT MEDICATIONS,"Hydrochlorothiazide 12.5 mg a day, Prozac 20 mg a day, Vioxx 25 mg a day, vitamin C 250 mg daily, vitamin E three to four tablets daily, calcium with D 1500 mg daily, multivitamin daily, aspirin 81 mg daily, Monopril 40 mg daily, Celexa p.r.n.",7,0,0,4,25
+1908.html,Hospice - Palliative Care,MEDICATIONS,"Norvasc 10 mg daily, isosorbide 60 mg every 24 hours, olanzapine at 2.5-5 mg in bedtime, clonazepam 1 mg every eight hours, Sorbitol 30 cc twice a day, Senna-S two tabs daily, methadone 60 mg every eight hours, and 30 mg every four hours p.r.n.",6,2,0,1,25
+87.html,Cardiovascular / Pulmonary,MEDICATIONS,"Lipitor 40 mg q.d., metoprolol 25 mg b.i.d., Plavix 75 mg q.d-discontinued, enalapril 10 mg b.i.d., aspirin 325 mg-reduced to 81 mg, Lorcet 10/650-given a 60 pill prescription, and Xanax 0.5 mg b.i.d-given a 60 pill prescription.",7,0,0,3,24
+2928.html,Orthopedic,CURRENT MEDICATIONS,"Consist of Duragesic patch 250 mcg total, Celebrex 200 mg once daily, iron 240 mg twice daily, Paxil 20 mg daily, and Percocet.",4,2,0,4,22
+15.html,Bariatrics,MEDICATIONS,"Include Topamax 100 mg twice daily, Zoloft 100 mg twice daily, Abilify 5 mg daily, Motrin 800 mg daily, and a multivitamin.",4,2,0,4,22
+3652.html,SOAP / Chart / Progress Notes,MEDICATIONS,"Currently are Aricept 10 mg a day, Prevacid 30 mg a day, Lexapro 10 mg a day, Norvasc 2.5 mg a day, Milk of Magnesia 30 cc daily, and Amanda 10 mg b.i.d.",5,0,0,7,22
+1910.html,Hospice - Palliative Care,MEDICATIONS,"Medications include Toprol 12.5 mg twice daily, Lasix 20 mg daily, ranitidine 75 mg daily, potassium 20 mEq daily, Benadryl 25-50 mg at the hour of sleep as needed, not typically taken and a prescription in the house for Keflex 500 mg q.i.d.",5,1,0,4,22
+459.html,Consult - History and Phy.,MEDICATIONS,"Premarin 1.25 mg daily, Elmiron 100 mg t.i.d., Elavil 50 mg at bedtime, OxyContin 10 mg three tablets three times a day, Toprol XL 25 mg daily.",5,1,0,3,21
+1831.html,Hematology - Oncology,CURRENT MEDICATIONS,"Zometa monthly, calcium with Vitamin D q.d., multivitamin q.d., Ambien 5 mg q.h.s., Pepcid AC 20 mg q.d., Effexor 112 mg q.d., Lyrica 100 mg at bedtime, Tylenol p.r.n., Ultram p.r.n., Mucinex one to two tablets b.i.d., Neosporin applied to the nasal mucosa b.i.d.",4,0,0,9,21
+1347.html,Gastroenterology,MEDICATIONS,"Diltiazem 30 mg tid, pantoprazole 40 mg qd, epoetin alfa 40,000 units weekly, iron 325 mg bid, cholestyramine.",4,3,0,0,21
+2226.html,Neurology,CURRENT MEDICATIONS,"Celebrex 200 mg, levothyroxine 0.025 mg, Vytorin 10/40 mg, lisinopril 10 mg, Coreg 10 mg, glucosamine with chondroitin, prostate 2.2, aspirin 81 mg, and laxative stimulant or stool softener.",6,0,0,2,20
+450.html,Consult - History and Phy.,MEDICATIONS,"As you know she takes the following medications for her diabetes, insulin 70 units/6 units times four years, aspirin 81 mg a day, Actos 15 mg, Crestor 10 mg and CellCept 500 mg two times a day.",6,0,0,2,20
+3660.html,SOAP / Chart / Progress Notes,MEDICATIONS,"Kerlone 10 mg 1/2 pill daily, gemfibrozil 600 mg twice daily, Crestor 80 mg 1/2 pill daily, aspirin 325 mg daily, vitamin E 400 units daily, and Citrucel one daily.",5,1,0,2,20
+2020.html,Nephrology,CURRENT MEDICATIONS,"As I have given are Levaquin, Prinivil 20 mg a day, Bumex 0.5 mg a day, Levsinex 0.375 mg a day, cimetidine 400 mg a day, potassium chloride 8 mEq a day, and atenolol 25 mg a day.",5,0,0,4,19
+3570.html,SOAP / Chart / Progress Notes,CURRENT MEDICATIONS,"Prilosec 20 mg b.i.d., levothyroxine 50 mcg q.d., Lopressor 75 mg q.d., vitamin C 500 mg q.d., multivitamin q.d., simvastatin 20 mg q.d., and prednisone 5 mg q.o.d.",6,0,0,1,19
+1688.html,General Medicine,MEDICATIONS,"Digoxin 0.25 mg, metoprolol 50 mg, Naprosyn 500 mg, metformin 500 mg, lovastatin 40 mg, Klor-Con 20 mEq, Advair Diskus, questionable Coreg.",5,0,0,4,19
+1565.html,General Medicine,PLAN,"At this time, continue niacin 1000 mg in the morning, 500 mg at noon, and 1000 mg in the evening; aspirin 81 mg daily; multivitamins; vitamin E 400 units daily; and vitamin C 500 mg daily.",6,0,0,0,18
+2523.html,Office Notes,MEDICATIONS,"Digoxin 250 mcg daily, lisinopril 5 mg daily, metoprolol 50 mg twice daily, PTU (propylthiouracil) 300 mg orally four times a day, warfarin variable dose based on INR.",4,2,0,0,18
+841.html,Consult - History and Phy.,MEDICATIONS,"Inpatient medications are Vitamin supplements, potassium chloride, Lovenox 40 mg subcutaneously daily, Lactulose 30 mL q.8h., Nexium 40 mg IV daily, Ativan 1 mg IV p.r.n.",4,0,0,5,17
+757.html,Consult - History and Phy.,CURRENT MEDICATIONS,"Include Diastat 20 mg; Topamax 25 mg b.i.d., which is 3.3 per kilo per day; Tranxene 15 mg b.i.d.; Depakote 125 mg t.i.d., which is 25 per kilo per day.",4,0,0,4,16
+3114.html,Pediatrics - Neonatal,PRESCRIPTIONS,Augmentin Dosage: 400 mg-57 mg/5 ml powder for reconstitution Sig: One PO Q8h Dispense: 1 Refills: 0 Allow Generic: No,3,0,0,7,16
+442.html,Consult - History and Phy.,CURRENT MEDICATIONS,"He takes ACTOplus, albuterol, AndroGel, Astelin, Diovan, Dolgic Plus, aspirin 81 mg, fish oil, Lipitor, Lorazepam, multivitamins, Nasacort, Pulmicort, ranitidine, Singulair, Viagra, Zetia, Zyrtec, and Uroxatral.",1,0,0,13,16
+627.html,Consult - History and Phy.,MEDICATIONS,"MiraLax 1 scoop nightly, Avandia 4 mg b.i.d., Flexeril 1 tablet t.i.d., Synthroid 125 mcg daily, Coumadin 5 mg.",4,0,0,4,16
+2209.html,Neurology,CURRENT MEDICATIONS,"He takes Actos, Ambien, baby aspirin, Coreg, Entocort, folic acid, Flomax, iron, Lexapro 20 mg q.h.s., Lipitor, Pentasa, Plavix, Protonix, Toprol, Celebrex and Zetia.",1,0,0,13,16
+653.html,Consult - History and Phy.,CURRENT MEDICATIONS,"Hydroxyurea 500 mg daily, Metamucil three teaspoons daily, amitriptyline 50 mg at h.s., Synthroid 0.1 mg daily, Ambien 5 mg at h.s., triamterene/hydrochlorothiazide 75/50 daily, and Lortab 5/500 at h.s.",4,0,0,4,16
+546.html,Consult - History and Phy.,MEDICATIONS,"Albuterol premix via nebulizer as needed, albuterol MDI 2 puffs b.i.d., therapy Vest daily, Creon 20 two with meals and snacks, A-dec 2 tablets daily, Prevacid 15 mg daily, Advair 100/50 one inhalation twice daily, and MiraLax p.r.n.",3,1,0,4,16
+700.html,Consult - History and Phy.,MEDICATIONS,"He is on Zonegran using 25 mg capsules 2 capsules twice daily, and baclofen 10 mg three times day.",3,2,0,1,16
+3664.html,SOAP / Chart / Progress Notes,CURRENT MEDICATIONS,"discontinued today, Vioxx 25 mg q.d., Maxzide 37/25 q.d., Protonix 40 mg q.d., hydroxyzine pamoate 50 mg at h.s., aspirin 81 mg q.d., Glucovance 1.25/250 b.i.d.",4,0,0,4,16
+2468.html,Obstetrics / Gynecology,MEDICATIONS,"Methotrexate 2.5 mg five weekly, Fosamax 70 mg weekly, folic acid daily, amitriptyline 15 mg daily, Synthroid 0.088 mg daily, calcium two in the morning and two at noon, multivitamin daily, baby aspirin daily and Colace one to three b.i.d.",4,0,0,3,15
+1675.html,General Medicine,MEDICATIONS,"Per the emergency room record, medications are Lotensin 20 mg daily, Toprol 50 mg daily, Plavix 75 mg daily and aspirin 81 mg daily.",4,0,0,3,15
+723.html,Consult - History and Phy.,RECOMMENDATIONS,gradually up to 300 mg four times a day and then to 600 mg to 900 mg four times a day.,3,2,0,0,15
+1038.html,Discharge Summary,DISCHARGE MEDICATIONS,"He is being discharged home on Lasix 40 mg daily, potassium chloride 10 mEq daily, atenolol 25 mg daily, aspirin 5 grains daily, Ditropan 5 mg b.i.d., and Colace 100 mg b.i.d.",4,0,0,3,15
+721.html,Consult - History and Phy.,MEDICATIONS,"She also takes various supplements including multivitamin q.d., calcium with vitamin D b.i.d., magnesium b.i.d., Ester-C b.i.d., vitamin E b.i.d., flax oil and fish oil b.i.d., evening primrose 1000 mg b.i.d., Quercetin 500 mg b.i.d., Policosanol 20 mg two a day, glucosamine chondroitin three a day, coenzyme-Q 10 30 mg two a day, holy basil two a day, sea vegetables two a day, and very green vegetables.",4,0,0,2,14
+285.html,Cardiovascular / Pulmonary,MEDICATIONS,"Currently she is also on Zyprexa, alcohol withdrawal medications, Zosyn 3.375 grams every eight hours, Lasix 20 mg daily, Cardizem CD 120 mg daily, Nexium 40 mg p.o.",3,0,0,5,14
+1350.html,Gastroenterology,CURRENT MEDICATIONS,"Diovan 80/12.5 mg daily, Lipitor 10 mg daily, Lutein 20 mg daily, folic acid 0.8 mg daily and multivitamin daily.",4,0,0,2,14
+554.html,Consult - History and Phy.,PLAN,"Charlie Athene reviewed blood sugars at this consultation as well, and made the following insulin adjustment: Morning 70/30, will increase from 20 units up to 24 units and evening 70/30, we will increase from 13 units up to 16 units.",4,0,0,2,14
+2220.html,Neurology,CURRENT MEDICATIONS,"per day, vitamin B12 1000 mcg weekly, vitamin D 1000 units per day, Metamucil p.r.n., enteric-coated aspirin once a day, Colace 200 mg p.o.",3,1,0,2,14
+610.html,Consult - History and Phy.,CURRENT MEDICATIONS,"Vioxx 25 mg daily, HCTZ 25 mg one-half tablet daily, Zoloft 100 mg daily, Zyrtec 10 mg daily.",4,0,0,2,14
+887.html,Consult - History and Phy.,CURRENT MEDICATIONS,"The patient also takes Neurontin 200 mg 3 times a day, propranolol 10 mg twice a day, oxybutynin 5 mg p.o.",3,1,0,1,13
+1856.html,Hematology - Oncology,CURRENT MEDICATIONS,"Lisinopril/hydrochlorothiazide 20/25 mg q.d., alprazolam 0.5 mg q.d., omeprazole 20 mg b.i.d., Lortab 7.5/500 mg q 4h p.r.n.",4,0,0,1,13
+449.html,Consult - History and Phy.,MEDICATIONS,"Include Colestid 1 g daily, Actos 30 mg daily, Amaryl 2 mg daily, Soma, and meloxicam for her back pain.",3,0,0,4,13
+2962.html,Orthopedic,PRESCRIPTIONS,Vioxx Dosage: 25 mg tablet Sig: TID Dispense: 60 Refills: 0 Allow Generic: Yes,1,1,0,7,13
+425.html,Consult - History and Phy.,PLAN,"RX: Micronase 2.5 mg Tab PO QAM #30, Bactrim 400/80 Tab PO BID #30.",2,1,0,4,13
+1960.html,Nephrology,MEDICATIONS,"Imdur 20 mg two to three times daily, nitroglycerin p.r.n., insulin 70/30 40/45 units daily, Zetia 10 mg daily, ?",3,1,0,1,13
+990.html,Dermatology,PRESCRIPTIONS,Tetracycline Dosage: 250 mg capsule Sig: BID Dispense: 60 Refills: 0 Allow Generic: Yes,1,1,0,7,13
+800.html,Consult - History and Phy.,PRESCRIPTIONS,NatalCare Plus Dosage: Prenatal Multivitamins tablet Sig: QD Dispense: 60 Refills: 4 Allow Generic: Yes,0,1,0,10,13
+2220.html,Neurology,PLAN,"He does have some mild orthostatic changes; however, he is adequately controlled with midodrine at a dose of 2.5 mg three times a day as needed up to 5 mg four times a day.",2,2,0,0,12
+1726.html,General Medicine,ASSESSMENT AND PLAN,She will be started on labetalol 10 mg IV every 4 hours and will receive hydralazine 10 mg IV every 6 hours as needed.,2,2,0,0,12
+3545.html,Rheumatology,PRESCRIPTIONS,Vioxx Dosage: 12.5 mg tablet Sig: BID Dispense: 30 Refills: 2 Allow Generic: No,1,1,0,6,12
+3724.html,SOAP / Chart / Progress Notes,CURRENT MEDICATIONS,"Hydrea 1500 mg on Mondays and Fridays and 1000 mg the other days of the week, Flomax q.d., vitamin D q.d, saw palmetto q.d., aspirin 81 mg q.d., and vitamin C q.d.",3,0,0,3,12
+3238.html,Psychiatry / Psychology,CURRENT MEDICATIONS,"daily, Decadron injection 6 mg IV q.12h., Colace 100 mg liquid b.i.d., Cardura 2 mg p.o.",3,0,0,3,12
+721.html,Consult - History and Phy.,MEDICATIONS,"Prempro q.d., Levoxyl 75 mcg q.d., Lexapro 20 mg q.d., Fiorinal as needed, currently she is taking it three times a day, and aspirin as needed.",2,1,0,3,12
+566.html,Consult - History and Phy.,MEDICATIONS,"It includes potassium, Pravachol, Prevacid, Synthroid, Diovan, Amaryl, Vitamin B12, Coreg, Coumadin, furosemide, Actos, aspirin, colchicine, Cipro, Percocet, Ultram (has held the latter two medications for the past two weeks due to concerns of exacerbating dizziness).",0,0,0,12,12
+562.html,Consult - History and Phy.,MEDICATIONS,Aspirin 81 mg daily and chlordiazepoxide and clidinium - combination pill at 5 mg/2.5 mg 1 tablet daily for stress.,4,0,0,0,12
+576.html,Consult - History and Phy.,PRESCRIPTIONS,Proscar Dosage: 5 mg tablet Sig: once daily Dispense: 30 Refills: 0 Allow Generic: No,1,1,0,6,12
+176.html,Cardiovascular / Pulmonary,MEDICATIONS,"Dilantin 100 mg four times a day, phenobarbital 30 mg three times per day, levothyroxine 0.025 mg p.o.",3,1,0,0,12
+3258.html,Psychiatry / Psychology,CURRENT MEDICATIONS,"Nexium 4 mg 4 times per day, Propanolol 10 mg 4 times a day, Spironolactone 100 mg 3 times per day, Lactulose 60 cc's 3 times a day.",3,0,0,3,12
+1866.html,Hematology - Oncology,CURRENT MEDICATIONS,"Levothyroxine 88 mcg daily, Soriatane 25 mg daily, Timoptic 0.5% solution b.i.d., Vicodin 5/500 mg one to two tablets q.6 hours p.r.n.",3,0,0,3,12
+2910.html,Orthopedic,DISCHARGE MEDICATIONS,"Resume home medications, but increase Lasix to 80 mg every morning, Lovenox 30 mg subcu daily x2 weeks, Vicodin 5/500 mg one to two every four to six hours p.r.n.",3,0,0,3,12
+1613.html,General Medicine,DISCHARGE MEDICATIONS,Lovenox 40 mg in 0.4 mL solution inject subcutaneously once daily for 14 days.,2,1,1,0,11
+23.html,Bariatrics,MEDICATIONS,"daily, Veramist spray 27.5 mcg daily, Restasis twice a day and ibuprofen two to three times a day.",1,2,0,2,11
+1608.html,General Medicine,CURRENT MEDICATIONS,Include those on admission combined with IV Flagyl 500 mg every 8 hours and Levaquin 500 mg daily.,2,1,0,2,11
+2223.html,Neurology,CURRENT MEDICATIONS,"Aspirin 81 mg daily, Colace 100 mg b.i.d., Lipitor 80 mg daily, and albuterol MDI p.r.n.",3,0,0,2,11
+4893.html,Urology,PLAN,"Following detailed discussion, the patient wishes to proceed with Cialis 20 mg, samples are provided as well as Levitra 10 mg, may increase this to 20 mg and understand administration of each and contraindication as well as potential side effects are reviewed.",3,0,0,2,11
+3073.html,Pediatrics - Neonatal,PRESCRIPTIONS,Tobramycin ophthalmic Dosage: 0.3% ointment Sig: Apply to both eyes QID x 5 days Dispense: 1 Refills: 0 Allow Generic: Yes,0,1,0,8,11
+3254.html,Psychiatry / Psychology,CURRENT MEDICATIONS,"The full 200 mg dose caused the patient to ""feel wired."" Effexor-XR 75 mg q.a.m., Lunesta 2 mg q.h.s., generic Vicodin p.r.n back pain.",3,0,0,2,11
+514.html,Consult - History and Phy.,MEDICATIONS,"Aspirin, Coumadin adjusted dose, digoxin, isosorbide mononitrate 120 mg daily, Lasix, potassium supplementation, gemfibrozil 600 mg b.i.d., and metoprolol 100 mg b.i.d.",3,0,0,2,11
+1727.html,General Medicine,MEDICATIONS,"Medications are taken from the paperwork from Life Care Center and include: Lortab 3-4 times a day for pain, Ativan 0.25 mg by mouth every 12 hours p.r.n.",1,1,0,5,11
+1394.html,Gastroenterology,MEDICATIONS,"Fentanyl 200 mcg, Versed 10 mg, Phenergan 25 mg intravenously given throughout the procedure.",3,0,0,2,11
+627.html,Consult - History and Phy.,MEDICATIONS,"600 mg, Cipro recently started 500 b.i.d., Humulin N 30 units twice a day.",2,1,0,2,11
+251.html,Cardiovascular / Pulmonary,MEDICATIONS,"Atenolol 50 mg daily, Premarin 0.625 mg daily, calcium with vitamin D two to three pills daily, multivitamin daily, aspirin as needed, and TriViFlor 25 mg two pills daily.",3,0,0,1,10
+1784.html,General Medicine,MEDICATIONS,"Her MS Contin dose is 150 mg every 8 to 12 hours and an immediate release morphine preparation, 45 to 75 mg by mouth every 8 hours as needed.",2,1,0,1,10
+620.html,Consult - History and Phy.,MEDICATIONS,Coumadin 3 mg Monday and Tuesday and 4.5 mg Saturday and Sunday.,2,0,0,4,10
+3210.html,Podiatry,PRESCRIPTIONS,Lotrimin AF Dosage: 1% cream Sig: apply qid Dispense: 4oz tube Refills: 0 Allow Generic: Yes,0,1,0,7,10
+3131.html,Pediatrics - Neonatal,PLAN,"We will place him on Clarinex 5 mg once daily, some Rhinocort-AQ nasal spray one spray each nostril once daily and otherwise discussed the importance of him wearing glasses.",1,2,0,1,10
+728.html,Consult - History and Phy.,MEDICATIONS,Keppra 1500 twice a day and Decadron 6 mg four times a day.,1,2,0,1,10
+1446.html,Gastroenterology,MEDICATIONS,"Tylenol prn (1-2 tabs every other day for the last 2 wks), Cimetidine 400mg po qhs x 5 days.",2,1,0,1,10
+1726.html,General Medicine,ASSESSMENT AND PLAN,She will be continued on Reglan 10 mg IV every 6 hours and she will be started on erythromycin 250 mg orally 3 times a day to help increase peristalsis.,2,1,0,1,10
+1480.html,Gastroenterology,PLAN,"Then, week #3, we will start him on 30 mg for 1 week, and then, 20 mg for 1 week, and then finally we will stop.",2,0,2,0,10
+1804.html,General Medicine,CURRENT MEDICATIONS,"According to the list shows the patient takes hydrocodone 10/325 mg every 6 hours, Flexeril 10 mg p.o.",2,1,0,1,10
+1972.html,Nephrology,MEDICATIONS,"Include metoprolol 100 mg two tablets b.i.d., Tylenol #3, Accupril 20 mg q.d., digoxin, Renocaps, aspirin, and Combivent.",2,0,0,4,10
+451.html,Consult - History and Phy.,MEDICATIONS,"daily, aspirin 500 mg three times a day, which is currently stopped, vitamin D, Premarin 0.3 mg one tablet p.o.",2,1,0,1,10
+1862.html,Hematology - Oncology,CURRENT MEDICATIONS,"nausea, lorazepam 0.5 mg every 8 hours as needed for anxiety, Ventolin HFA 2 puffs q.6h.",2,1,0,1,10
+752.html,Consult - History and Phy.,MEDICATIONS,"Bactrim 32 mg by mouth twice a day on Friday, Saturday, and Sunday.",1,1,0,3,9
+2220.html,Neurology,PLAN,"Usually, he uses a lower dose of 2.5 three times a day to 5 mg three times a day.",1,2,0,0,9
+320.html,Cardiovascular / Pulmonary,MEDICATIONS,"Lanoxin 0.125 mg, 1/2 tablet once a day.",2,1,0,0,9
+693.html,Consult - History and Phy.,MEDICATIONS,Citalopram 10mg once daily for depression; low dose tramadol PRN pain.,1,2,0,0,9
+1665.html,General Medicine,MEDICATIONS,"On the medical records, it shows she is also on ibuprofen, Lasix 40 mg b.i.d., Lipitor 20 mg nightly, Reglan t.i.d.",2,0,0,3,9
+1692.html,General Medicine,PLAN,I will continue with the IV fluids at 75 mL an hour with a D5 normal saline at the range of 75 mL an hour and adding potassium 10 mEq per 1000 mL and I would follow the patient on daily basis.,3,0,0,0,9
+3237.html,Psychiatry / Psychology,PLAN,Continue Lexapro 10 mg daily and Pamelor 25 mg each bedtime monitor for adverse effects of TCA and worsening of depressive symptoms.,2,0,0,2,8
+3238.html,Psychiatry / Psychology,CURRENT MEDICATIONS,"b.i.d., Lovenox 60 mg subcu q.12h., insulin sliding scale, Tylenol suppositories 650 mg rectal q.4h.",2,0,0,2,8
+906.html,Consult - History and Phy.,MEDICATIONS,He also takes Proscar 5 mg q.d and Synthroid 0.2 mg q.d.,2,0,0,2,8
+910.html,Consult - History and Phy.,CURRENT MEDICATIONS,"Prevacid, folic acid, aspirin, morphine sulfate, Pulmicort, Risperdal, Colace, clonazepam, Lotrisone, Roxanol, Ambien, Zolpidem tartrate, simethicone, Robitussin, and prednisone.",0,0,0,8,8
+657.html,Consult - History and Phy.,ASSESSMENT AND PLAN,We will start Lovenox 1 mg per kg subcu daily and Coumadin 5 mg p.o.,2,0,0,2,8
+3598.html,SOAP / Chart / Progress Notes,MEDICATIONS,"day, Tylenol with Codeine b.i.d., prednisone 5 mg p.r.n., citalopram 10 mg p.o.",2,0,0,2,8
+1808.html,General Medicine,ASSESSMENT AND PLAN,"We will decrease her prednisone to 40 mg for 3 days, then go down to 20 mg a day.",2,0,1,0,8
+1723.html,General Medicine,PLAN,"Lastly, for the upper respiratory tract infection, I am giving him amoxicillin 500 mg three times a day for 10 days.",1,1,1,0,8
+561.html,Consult - History and Phy.,MEDICATIONS,"Wellbutrin XL 450 mg daily, Ritalin long-acting 60 mg daily, hydrochlorothiazide at an unknown dose, Vytorin at an unknown dose, and aspirin.",2,0,0,2,8
+811.html,Consult - History and Phy.,PRESCRIPTIONS,Penlac Dosage: 8% Topical Solution Sig: Dispense: Refills: 0 Allow Generic: No,0,0,0,8,8
+1711.html,General Medicine,PLAN,We will start her on Detrol 0.4 mg one daily and also started on Mobic 15 mg per day.,2,0,0,2,8
+3703.html,SOAP / Chart / Progress Notes,MEDICATIONS,"Bactrim DS one pill a day, Proscar 5 mg a day, Flomax 0.4 mg daily.",2,0,0,2,8
+1727.html,General Medicine,MEDICATIONS,"t.i.d., Lantus 35 units subcu q nightly, Glipizide 10 mg p.o.",2,0,0,2,8
+1542.html,Gastroenterology,MEDICATIONS,Fentanyl (Sublazine) 0.1 mg IV Versed (midazolam) 1 mg IV,2,0,0,2,8
+506.html,Consult - History and Phy.,MEDICATIONS,"Thyroid supplementation, atenolol 25 mg daily, Lasix, potassium supplementation, lovastatin 40 mg daily, and Coumadin adjusted dose.",2,0,0,2,8
+176.html,Cardiovascular / Pulmonary,MEDICATIONS,"day, Lidoderm patch every 12 hours, Naprosyn 375 mg p.o.",1,1,0,2,8
+2910.html,Orthopedic,DISCHARGE MEDICATIONS,"pain, Combivent nebulizer every four hours while awake for difficulty breathing, Zithromax one week 250 mg daily, and guaifenesin long-acting one twice a day b.i.d.",1,1,0,2,8
+1878.html,Hematology - Oncology,CURRENT MEDICATIONS,"three months, Flomax 0.4 mg q.d., and Warfarin 2.5 mg q.d.",2,0,0,2,8
+3263.html,Psychiatry / Psychology,PLAN,So I have decided at this point to increase him to the Adderall XR 15 mg in the morning and then Adderall 5 mg in the afternoon.,2,0,0,2,8
+3255.html,Psychiatry / Psychology,CURRENT MEDICATIONS,"Prescription: Wellbutrin 200 mg b.i.d., but she has been given a prescription for Cymbalta 30 mg per day, which she was instructed to start within the next few days.",2,0,0,2,8
+3088.html,Pediatrics - Neonatal,DISCHARGE MEDICATIONS,Xopenex MDI 2 puffs every 4 hours for 2 days and then as needed for cough or wheeze.,1,1,1,0,8
+1259.html,ENT - Otolaryngology,PLAN,Ceftin 250 mg by mouth twice a day for 10 days.,1,1,1,0,8
+2220.html,Neurology,CURRENT MEDICATIONS,"p.r.n., Protonix 40 mg per day, and Megace 400 mg per day.",2,0,0,2,8
+4954.html,Urology,MEDICATIONS,"Novolin, Afrin, Nephro-Vite, Neurontin, lisinopril, furosemide, Tums, labetolol, Plavix, nitroglycerin, Aricept, omeprazole, oxycodone, Norvasc, Renagel, and morphine.",0,0,0,7,7
+700.html,Consult - History and Phy.,MEDICATIONS,The patient's medications include Lamictal for a total of 200 mg twice a day.,1,1,0,1,7
+697.html,Consult - History and Phy.,PLAN,We will get a chest x-ray and start Lasix at 1 mg/kg twice daily.,1,1,0,1,7
+3.html,Allergy / Immunology,RECOMMENDATIONS,The patient was given instruction on use of nasal saline irrigation to be used twice daily and Clarinex 5 mg daily was recommended.,1,1,0,1,7
+1712.html,General Medicine,PLAN,In the meantime I have given him Ativan 0.5 mg one tablet two to three times a day as needed for anxiety.,1,1,0,1,7
+2245.html,Neurology,CURRENT MEDICATIONS,"twice a day, Namenda 10 mg p.o.",1,1,0,1,7
+4271.html,Surgery,PLAN,We will add Norvasc 5 mg daily as well as hydrochlorothiazide 25 mg daily.,2,0,0,1,7
+4252.html,Surgery,RECOMMENDATIONS,Use Reglan 10 mg three to four times a day.,1,1,0,1,7
+285.html,Cardiovascular / Pulmonary,MEDICATIONS,"daily, Solu-Cortef 50 mg q.24h., Lovenox 40 mg subcu daily, NovoLog sliding scale insulin.",2,0,0,1,7
+3263.html,Psychiatry / Psychology,CURRENT MEDICATIONS,He is on Adderall XR 10 mg once daily.,1,1,0,1,7
+1426.html,Gastroenterology,MEDICATIONS,Fentanyl 250 mcg and 9 mg of Versed.,2,0,0,1,7
+3664.html,SOAP / Chart / Progress Notes,CURRENT MEDICATIONS,"decreased to one a day today, Monopril 20 mg q.d., estradiol one mg q.d., and glucosamine 1000 mg q.d.",2,0,0,1,7
+3213.html,Psychiatry / Psychology,PLAN,"Decrease Abilify from 7.5 mg to 5 mg tablet one a day, no refills needed.",2,0,0,1,7
+3248.html,Psychiatry / Psychology,RECOMMENDATIONS,I would recommend that we try Seroquel 25 mg twice daily on an as-needed basis to see if this diminishes anxiety.,1,1,0,1,7
+1622.html,General Medicine,MEDICATIONS,"Include multiple medications that are significant for his lung transplant including Prograf, CellCept, prednisone, omeprazole, Bactrim which he is on chronically, folic acid, vitamin D, Mag-Ox, Toprol-XL, calcium 500 mg, vitamin B1, Centrum Silver, verapamil, and digoxin.",1,0,0,4,7
+847.html,Consult - History and Phy.,CURRENT MEDICATIONS,The patient currently is taking Synthroid 75 mcg per day and lithium 1200 mg p.o.,2,0,0,1,7
+3806.html,Surgery,MEDICATIONS,Hydrocodone/Acetaminophen (Vicodin 5/500) 1-2 tabs PO q 6 hr PRN.,1,1,0,1,7
+4150.html,Surgery,MEDICATIONS,"Fentanyl 25 mcg, Versed 2 mg, 2% lidocaine spray to the pharynx.",2,0,0,1,7
+4162.html,Surgery,MEDICATIONS,Fentanyl 125 mcg and Versed 7 mg slow IV push.,2,0,0,1,7
+4029.html,Surgery,MEDICATIONS,Fentanyl 150 mcg and Versed 7 mg slow IV push.,2,0,0,1,7
+484.html,Consult - History and Phy.,MEDICATIONS,"Lipitor, Pulmicort, Allegra, Xopenex, Patanol, Duac topical gel, Loprox cream, and Rhinocort.",0,0,0,7,7
+505.html,Consult - History and Phy.,CURRENT MEDICATIONS,"Please see attached list including hydralazine, Celebrex, Colace, metformin, aspirin, potassium, Lasix, Levaquin, Norvasc, insulin, Plavix, lisinopril, and Zocor.",0,0,0,7,7
+2144.html,Neurology,RECOMMENDATIONS,Increase Neurontin to 300 mg per day x 1 week and then 300 mg b.i.d.,2,0,0,1,7
+2832.html,Orthopedic,MEDICATIONS,"On transfer, Celebrex, Coumadin, Colace, Synthroid, Lovenox, Percocet, Toprol XL, niacin, and trazodone.",0,0,0,7,7
+930.html,Consult - History and Phy.,MEDICATIONS,"Tetracycline 250 mg daily, Inderal LA 80 mg every other day.",2,0,0,1,7
+627.html,Consult - History and Phy.,MEDICATIONS,"Percocet 2 tablets 4 times a day, Neurontin 1 tablet b.i.d.",2,0,0,1,7
+816.html,Consult - History and Phy.,CURRENT MEDICATIONS,She is on Neurontin 300 mg three times daily.,1,1,0,1,7
+3571.html,SOAP / Chart / Progress Notes,CURRENT MEDICATIONS,"Folic acid, Aciphex, MiraLax, trazodone, prednisone for 5 days every 4 weeks, Bactrim double strength 1 tablet b.i.d.",1,0,1,2,7
+1378.html,Gastroenterology,MEDICATIONS,"Midazolam 2 mg IV, Fentanyl 100 mcg IV",2,0,0,1,7
+444.html,Consult - History and Phy.,RECOMMENDATIONS,"The patient is felt to be a significant fall risk and will at least continue her aspirin 81 mg once a day for secondary CVA, thromboprophylaxis (albeit understanding that it is inferior to Coumadin).",1,1,0,1,7
+3123.html,Pediatrics - Neonatal,MEDICATIONS,"Advair 100/50 b.i.d., Allegra 60 mg b.i.d., Flonase q.d., Xopenex, Intal, and albuterol p.r.n.",1,0,0,4,7
+3113.html,Pediatrics - Neonatal,PLAN,He was continued Omnicef 125 mg/5 mL one teaspoon p.o.,2,0,0,1,7
+1908.html,Hospice - Palliative Care,ASSESSMENT AND PLAN,We will advance the bowel regimen to Sorbitol 30 cc three times a day and Senna-S three tabs twice a day.,0,2,0,1,7
+3238.html,Psychiatry / Psychology,CURRENT MEDICATIONS,"q.12h., Flagyl 500 mg via PEG tube q.8h., modafinil 100 mg p.o.",2,0,0,1,7
+1741.html,General Medicine,PLAN,I did urge him to use Claritin 10 mg once daily until the redness and swelling has gone.,1,1,0,1,7
+3618.html,SOAP / Chart / Progress Notes,CURRENT MEDICATIONS,"Synthroid q.d., ferrous sulfate 325 mg b.i.d., multivitamin q.d., Ativan 0.5 mg q.4 hours p.r.n.",2,0,0,1,7
+3672.html,SOAP / Chart / Progress Notes,CURRENT MEDICATIONS,"p.r.n., furosemide 20 mg daily p.r.n., and sublingual Nitro p.r.n., and alprazolam 0.25 mg p.r.n.",2,0,0,1,7
+669.html,Consult - History and Phy.,PRESCRIPTIONS,"Digoxin; dosage: 0.125 mg tablet Sig: 1 qd, dispense: 30, refills: 0, allow generic: yes.",1,1,0,1,7
+361.html,Cardiovascular / Pulmonary,MEDICATIONS,"q.d., and Micardis HCT 80 mg/12.5 mg p.o.",2,0,0,1,7
+2166.html,Neurology,CURRENT MEDICATIONS,"Gabapentin 300 mg b.i.d., Centrum once a day, and another multivitamin.",1,1,0,1,7
+1679.html,General Medicine,MEDICATIONS,Metoprolol 25 mg twice daily.,1,1,0,0,6
+3236.html,Psychiatry / Psychology,PLAN,"Prozac should be pushed to minimum of 40 mg, which the patient has already tolerated in the past, but most likely up to 60 or 80 mg.",2,0,0,0,6
+364.html,Cardiovascular / Pulmonary,DISCHARGE MEDICATIONS,Prednisone - 5 mg once daily.,1,1,0,0,6
+799.html,Consult - History and Phy.,CURRENT MEDICATIONS,"The patient takes Tylenol PM for insomnia, Lasix, Coumadin, Norvasc, Lanoxin, Diovan, atenolol, and folic acid.",0,0,0,6,6
+1645.html,General Medicine,CURRENT MEDICATIONS,"Evista 60 daily, Levothroid 0.05 mg daily, Claritin 10 daily, Celebrex 200 daily, HCTZ 25 daily and amitriptyline p.r.n.",1,0,0,3,6
+1643.html,General Medicine,PLAN,We will put her on cephalexin 500 mg three times a day.,1,1,0,0,6
+1628.html,General Medicine,PLAN,"Since the patient is on Plavix, I recommend that the Plavix be discontinued and should be placed on Lovenox 30 mg subcu q.d.",1,0,0,3,6
+2469.html,Obstetrics / Gynecology,MEDICATIONS,"Started on hydralazine 50 mg t.i.d., and labetalol 200 mg b.i.d., hydrochlorothiazide, and insulin supplementation.",2,0,0,0,6
+104.html,Cardiovascular / Pulmonary,MEDICATIONS,Zocor 20 mg once a day.,1,1,0,0,6
+43.html,Cardiovascular / Pulmonary,MEDICATIONS,Diovan 160 mg once a day.,1,1,0,0,6
+43.html,Cardiovascular / Pulmonary,MEDICATIONS,Plavix 75 mg once a day.,1,1,0,0,6
+836.html,Consult - History and Phy.,MEDICATIONS,Levoxyl 125 mcg once a day.,1,1,0,0,6
+364.html,Cardiovascular / Pulmonary,DISCHARGE MEDICATIONS,Aspirin - 81 mg once daily.,1,1,0,0,6
+364.html,Cardiovascular / Pulmonary,DISCHARGE MEDICATIONS,Pantoprazole - 40 mg once daily.,1,1,0,0,6
+364.html,Cardiovascular / Pulmonary,DISCHARGE MEDICATIONS,Hydralazine - 10 mg four times a day.,1,1,0,0,6
+3928.html,Surgery,MEDICATIONS,Altace 2.5 mg once a day.,1,1,0,0,6
+3928.html,Surgery,MEDICATIONS,Atenolol 25 mg once a day.,1,1,0,0,6
+2158.html,Neurology,MEDICATIONS,It is a 150 mg tablet and 25 mg tablets.,2,0,0,0,6
+2214.html,Neurology,MEDICATIONS,Zofran 1.5 mg every 6 hours as needed for nausea.,1,1,0,0,6
+1973.html,Nephrology,MEDICATIONS,"Diovan HCT 80/12.5 mg daily, metformin 500 mg daily.",2,0,0,0,6
+718.html,Consult - History and Phy.,MEDICATIONS,Insulin 20 to 25 units twice a day.,1,1,0,0,6
+1111.html,Discharge Summary,DISCHARGE MEDICATIONS,Augmentin 500 mg three times daily x10 days.,1,1,0,0,6
+3593.html,SOAP / Chart / Progress Notes,MEDICATIONS,NPH insulin - 65 units in the morning and 25 units in the evening.,2,0,0,0,6
+1144.html,Emergency Room Reports,MEDICATIONS,"Toprol-XL 25 mg once a day which I started although she had been bradycardic, but she seems to be tolerating.",1,1,0,0,6
+1144.html,Emergency Room Reports,MEDICATIONS,Glucosamine 500/400 mg once a day for arthritis.,1,1,0,0,6
+1144.html,Emergency Room Reports,MEDICATIONS,Prilosec for GERD 20 mg once a day.,1,1,0,0,6
+1144.html,Emergency Room Reports,MEDICATIONS,Detrol LA 2 mg once a day.,1,1,0,0,6
+3604.html,SOAP / Chart / Progress Notes,CURRENT MEDICATIONS,Lisinopril 40 mg once daily.,1,1,0,0,6
+1139.html,Emergency Room Reports,TREATMENT,Heparin IV 5000 unit bolus followed by 1000 units/hour.,2,0,0,0,6
+1658.html,General Medicine,MEDICATIONS,Torsemide 40 mg po qam and 20 mg po qpm.,2,0,0,0,6
+1658.html,General Medicine,MEDICATIONS,Captopril 25 mg po tid.,1,1,0,0,6
+1658.html,General Medicine,MEDICATIONS,Metolazone 10 mg po qd.,1,1,0,0,6
+571.html,Consult - History and Phy.,PLAN,Patient and his Mom agreed to a trial of omeprazole 20 mg at bedtime for 2 weeks.,1,0,1,1,6
+1675.html,General Medicine,ASSESSMENT AND PLAN,I will continue him on his amiodarone 200 mg twice daily and consult CHI to evaluate him.,1,1,0,0,6
+1123.html,Discharge Summary,DISCHARGE MEDICATIONS,"Advair 250/50 mcg, 1 puff b.i.d.",2,0,0,0,6
+2567.html,Office Notes,DISCHARGE MEDICATIONS,Cyclosporine - 25 mg in the morning and 15 mg in the evening.,2,0,0,0,6
+3668.html,SOAP / Chart / Progress Notes,CURRENT MEDICATIONS,Allegra 60 mg twice a day.,1,1,0,0,6
+541.html,Consult - History and Phy.,MEDICATIONS,Tramadol 50 mg tablets two by mouth four times a day.,1,1,0,0,6
+2215.html,Neurology,CURRENT MEDICATIONS,"Trileptal 180 mg b.i.d., lorazepam 1 mg p.r.n., acetaminophen, and azithromycin.",2,0,0,0,6
+836.html,Consult - History and Phy.,MEDICATIONS,Vitamin D 400 units twice daily.,1,1,0,0,6
+836.html,Consult - History and Phy.,MEDICATIONS,Zocor 40 mg once a day.,1,1,0,0,6
+836.html,Consult - History and Phy.,MEDICATIONS,"Nasacort 55 mcg, 2 sprays daily.",2,0,0,0,6
+836.html,Consult - History and Phy.,MEDICATIONS,Bumex 2 mg once a day.,1,1,0,0,6
+836.html,Consult - History and Phy.,MEDICATIONS,Verapamil 240 mg once a day.,1,1,0,0,6
+245.html,Cardiovascular / Pulmonary,PLAN,"I will repeat it, and if it is still elevated, I will give vitamin K 10 mg in 100 mL of D5W and then send her home and repeat the PT/INR next week.",2,0,0,0,6
+1144.html,Emergency Room Reports,MEDICATIONS,Evista 60 mg once a day.,1,1,0,0,6
+1144.html,Emergency Room Reports,MEDICATIONS,Lipitor 5 mg once a day.,1,1,0,0,6
+1144.html,Emergency Room Reports,MEDICATIONS,Norvasc 5 mg once a day.,1,1,0,0,6
+1144.html,Emergency Room Reports,MEDICATIONS,Claritin 10 mg once a day for allergic rhinitis.,1,1,0,0,6
+1144.html,Emergency Room Reports,MEDICATIONS,Aspirin 325 mg once a day.,1,1,0,0,6
+1731.html,General Medicine,CURRENT MEDICATIONS,Flagyl 500 mg four times a day.,1,1,0,0,6
+3092.html,Pediatrics - Neonatal,MEDICATIONS,"Albuterol, Pulmicort, MiraLax 17 g once a week, carnitine, phenobarbital, Depakene and Reglan.",1,0,0,3,6
+3088.html,Pediatrics - Neonatal,DISCHARGE MEDICATIONS,"QVAR 40, 2 puffs twice daily until otherwise instructed by the primary care provider.",1,1,0,0,6
+2567.html,Office Notes,DISCHARGE MEDICATIONS,CellCept - 500 mg twice a daily.,1,1,0,0,6
+1970.html,Nephrology,CURRENT MEDICATIONS,Cozaar 50 mg twice a day.,1,1,0,0,6
+1970.html,Nephrology,CURRENT MEDICATIONS,Carvedilol 12.5 mg twice a day.,1,1,0,0,6
+1911.html,Hospice - Palliative Care,MEDICATIONS,Amiodarone 200 mg once a day.,1,1,0,0,6
+1104.html,Discharge Summary,DISCHARGE MEDICATIONS,for 14 days and then Prevacid also to prevent his GI from aspirin 15 mg p.o.,1,0,1,1,6
+1093.html,Discharge Summary,PLAN,"He can resume his home medications of Prandin, Actos, Lipitor, Glucophage, Benicar, and Advair.",0,0,0,6,6
+531.html,Consult - History and Phy.,MEDICATIONS,Reglan 10 mg once a day.,1,1,0,0,6
+1658.html,General Medicine,MEDICATIONS,Carvedilol 3.125 mg po bid.,1,1,0,0,6
+742.html,Consult - History and Phy.,MEDICATIONS,Diovan 160 mg twice daily.,1,1,0,0,6
+4196.html,Surgery,MEDICATIONS,Fentanyl 200 mcg and versed 6 mg.,2,0,0,0,6
+4167.html,Surgery,MEDICATIONS,Versed 4 mg IV push and fentanyl 75 mcg IV push given throughout the procedure in incremental fashion with careful monitoring of patient's pressures and vital signs.,2,0,0,0,6
+444.html,Consult - History and Phy.,MEDICATIONS,Aspirin 81 mg once a day.,1,1,0,0,6
+444.html,Consult - History and Phy.,MEDICATIONS,Norvasc 10 mg once a day.,1,1,0,0,6
+1233.html,ENT - Otolaryngology,PLAN,"Postoperatively, the patient will be on Zithromax oral suspension 500 mg daily for 5 to 7 days, Lortab Elixir for pain.",1,0,0,3,6
+4020.html,Surgery,MEDICATIONS,Fentanyl 100 mcg and versed 10 mg.,2,0,0,0,6
+673.html,Consult - History and Phy.,MEDICATIONS,Reglan 10 mg orally every 6 hours.,1,1,0,0,6
+3632.html,SOAP / Chart / Progress Notes,PLAN,I told her for her shoulder to take ibuprofen 600 mg three times daily with her meals for a minimum of the next one week.,1,1,0,0,6
+1083.html,Discharge Summary,DISCHARGE MEDICATIONS,Lopressor 50 mg one-half tablet twice daily.,1,1,0,0,6
+919.html,Consult - History and Phy.,PLAN,"Booked for electronystagmography and advised to continue with her vestibular rehabilitation exercises, in addition to supportive medical treatment in the form of betahistine 24 mg twice a day.",1,1,0,0,6
+641.html,Consult - History and Phy.,MEDICATIONS,Magnesium oxide 400 mg three times a day.,1,1,0,0,6
+1731.html,General Medicine,CURRENT MEDICATIONS,Clonazepam 1 mg twice a day.,1,1,0,0,6
+1731.html,General Medicine,CURRENT MEDICATIONS,Flexeril 10 mg twice a day.,1,1,0,0,6
+3231.html,Psychiatry / Psychology,MEDICATIONS,Robitussin 5 mL every 6 hours as needed for cough.,1,1,0,0,6
+1731.html,General Medicine,CURRENT MEDICATIONS,Metformin 1000 mg twice a day.,1,1,0,0,6
+477.html,Consult - History and Phy.,MEDICATIONS,"He is on lansoprazole (Prevacid), Toradol, piperacillin/tazobactam, hydralazine p.r.n., Zofran, Dilaudid, Benadryl, and Lopressor p.r.n.",0,0,0,6,6
+3914.html,Surgery,MEDICATIONS,"Reglan 10 mg p.o., 5 mg p.o.",2,0,0,0,6
+1870.html,Hematology - Oncology,CURRENT MEDICATIONS,Xanax 1 mg four times a day.,1,1,0,0,6
+1870.html,Hematology - Oncology,CURRENT MEDICATIONS,Paxil 40 mg once daily.,1,1,0,0,6
+673.html,Consult - History and Phy.,MEDICATIONS,Nexium 20 mg orally twice a day.,1,1,0,0,6
+2519.html,Office Notes,MEDICATIONS,Flovent 100 mcg twice a day.,1,1,0,0,6
+2374.html,Obstetrics / Gynecology,MEDICATIONS,"Allegra 180 mg q.d., trazodone 50 mg p.r.n.",2,0,0,0,6
+938.html,Cosmetic / Plastic Surgery,MEDICATIONS,Current medications are 5 mg of methadone three times a day and amitriptyline at night as needed.,1,1,0,0,6
+1083.html,Discharge Summary,DISCHARGE MEDICATIONS,Symbicort 1 puff every morning and 1 puff every evening.,2,0,0,0,6
+3637.html,SOAP / Chart / Progress Notes,CURRENT MEDICATIONS,instead of what the psychiatrist had recommended which should be 6 mg and 8 mg.,2,0,0,0,6
+2925.html,Orthopedic,MEDICATIONS,"Depo-Testosterone 200 mg IM q.3 weekly, prednisone 1 tablet p.o.",2,0,0,0,6
+3539.html,Rheumatology,RECOMMENDATIONS,Robitussin Cough and Cold Flu to be taken twice a day.,0,1,0,3,6
+3539.html,Rheumatology,CURRENT MEDICATIONS,Pepcid 20 mg twice a day.,1,1,0,0,6
+1477.html,Gastroenterology,PLAN,Omeprazole 20 mg daily and famotidine 20 mg b.i.d.,2,0,0,0,6
+3539.html,Rheumatology,CURRENT MEDICATIONS,Lopressor 50 mg one-half tablet twice a day.,1,1,0,0,6
+3539.html,Rheumatology,CURRENT MEDICATIONS,Hydrochlorothiazide 15 mg once a day.,1,1,0,0,6
+1055.html,Discharge Summary,PLAN,"The patient will finish cefazolin 1 g IV every 6 hours, total 5 dosages after pacemaker placement.",1,1,0,0,6
+1908.html,Hospice - Palliative Care,ASSESSMENT AND PLAN,We will add pregabalin 50 mg three times a day and titrate the dose up as needed.,1,1,0,0,6
+1908.html,Hospice - Palliative Care,ASSESSMENT AND PLAN,We are going to increase methadone to 70 mg every eight hours and continue 30 mg for breakthrough.,2,0,0,0,6
+3696.html,SOAP / Chart / Progress Notes,ASSESSMENT AND PLAN,He will take 10 mg twice daily and we will gradually increase his dose until his heart rate will drop to 25% from 75% to probably 60-58.,1,1,0,0,6
+2136.html,Neurology,CURRENT MEDICATIONS,Klonopin 0.5 mg twice a day.,1,1,0,0,6
+3256.html,Psychiatry / Psychology,PLAN,Encouraged mother to continue with the Love and Logic and 1-2-3 Magic parenting techniques.,0,1,0,3,6
+3539.html,Rheumatology,CURRENT MEDICATIONS,Plaquenil 200 mg twice a day.,1,1,0,0,6
+1000.html,Dermatology,MEDICATIONS,"Colchicine 0.6 mg daily which we are going to stop, ranitidine 150 mg as needed, which she does not take frequently.",2,0,0,0,6
+843.html,Consult - History and Phy.,MEDICATIONS,Promethazine 12.5 mg every 4 hours.,1,1,0,0,6
+843.html,Consult - History and Phy.,MEDICATIONS,Ceftriaxone IV 1 g in 1/2 NS every 24 hours.,1,1,0,0,6
+1081.html,Discharge Summary,MEDICATIONS,Calcium with vitamin D 1 tablet twice a day.,1,1,0,0,6
+1061.html,Discharge Summary,DISCHARGE MEDICATIONS,Zoloft 25 mg orally once daily.,1,1,0,0,6
+1061.html,Discharge Summary,DISCHARGE MEDICATIONS,Nexium 40 mg orally once daily.,1,1,0,0,6
+1061.html,Discharge Summary,DISCHARGE MEDICATIONS,Aspirin 81 mg orally once daily.,1,1,0,0,6
+1060.html,Discharge Summary,DISCHARGE MEDICATIONS,Ativan 1 mg one-half to one three times a day as needed.,1,1,0,0,6
+620.html,Consult - History and Phy.,MEDICATIONS,Spironolactone 25 mg po qd.,1,1,0,0,6
+3164.html,Podiatry,DISCHARGE MEDICATIONS,"Lorcet 10/650 mg, dispense 24 tablets, one tablet to be taken by mouth q.6h as needed for pain.",2,0,0,0,6
+1604.html,General Medicine,PLAN,Promethazine 25 mg IM every 6 hours p.r.n.,1,1,0,0,6
+1604.html,General Medicine,PLAN,Famotidine 20 mg 1 tablet p.o.,2,0,0,0,6
+490.html,Consult - History and Phy.,MEDICATIONS,Metoprolol - 150 mg twice daily.,1,1,0,0,6
+2220.html,Neurology,PLAN,The patient will go to the Rehabilitation Facility for Acute Rehabilitation and Training.,0,0,0,5,5
+3233.html,Psychiatry / Psychology,MEDICATIONS,"From discharge from Hospital on 01/21/10, include Percocet, Valium, Soma, and Vistaril, doses and frequency are not currently known.",0,0,0,5,5
+1650.html,General Medicine,PLAN,Amoxicillin a teaspoon twice daily for 10 days.,0,1,1,0,5
+1635.html,General Medicine,PLAN,Omnicef 300 mg daily for 10 days.,1,0,1,0,5
+3238.html,Psychiatry / Psychology,PLAN,"Discontinue Provigil, begin Ritalin 5 mg p.o.",1,0,0,2,5
+3247.html,Psychiatry / Psychology,CURRENT MEDICATIONS,"In the past, she has been on Prozac, Paxil, lithium, Depakote, Depakene, and Zoloft.",0,0,0,5,5
+1724.html,General Medicine,MEDICATIONS,"Lorazepam 0.5 mg, dosing interval is not noted; Tylenol PM; Klor-Con 10 mEq; Lexapro; calcium with vitamin D.",1,0,0,2,5
+3255.html,Psychiatry / Psychology,CURRENT MEDICATIONS,"She also takes Ambien (ineffective), L-thyroxin, lisinopril, hydrochlorothiazide, metformin, Zocor, an unknown medication for restless legs, Ultram, Lidoderm patch, and Zanaflex.",0,0,0,5,5
+1480.html,Gastroenterology,PLAN,"Then, week #2, we will start him on 40 mg for 1 week.",1,0,1,0,5
+1399.html,Gastroenterology,ASSESSMENT AND PLAN,"Milk of Magnesia 30 mL daily p.r.n., Dulcolax suppository twice a week p.r.n.",1,0,0,2,5
+3577.html,SOAP / Chart / Progress Notes,CURRENT MEDICATIONS,"Avapro 300 mg q.d., Pepcid q.d., Zyrtec p.r.n., and calcium q.d.",1,0,0,2,5
+1295.html,ENT - Otolaryngology,ASSESSMENT AND PLAN,I have given them prescription for Nasacort Aqua one spray to each nostril twice a day.,0,1,0,2,5
+1273.html,ENT - Otolaryngology,DISCHARGE MEDICATIONS,Ciprodex Otic Solution in the right ear twice daily.,0,1,0,2,5
+421.html,Consult - History and Phy.,MEDICATIONS,"Presently on Lasix, potassium supplementation, Levaquin, hydralazine 10 mg b.i.d., antibiotic treatments, and thyroid supplementation.",1,0,0,2,5
+413.html,Chiropractic,MEDICATIONS,"Vytorin, Synthroid, Maxalt, nadolol, omeprazole, amitriptyline and 81 mg aspirin.",1,0,0,2,5
+3101.html,Pediatrics - Neonatal,DISCHARGE MEDICATIONS,for 1 day and then aspirin low dose 40 mg q.d.,1,0,1,0,5
+1229.html,Endocrinology,MEDICATIONS,"Include levothyroxine 300 mcg daily, albuterol, Asacol, and Prilosec.",1,0,0,2,5
+641.html,Consult - History and Phy.,PLAN,and Regular Insulin at a high dose sliding scale every 6 hours.,0,1,0,2,5
+3088.html,Pediatrics - Neonatal,DISCHARGE MEDICATIONS,twice daily for 10 days.,0,1,1,0,5
+654.html,Consult - History and Phy.,PLAN,We will start her on Lovenox subcutaneously 40 mg every day and we will continue with the Ecotrin as swallowing evaluation was done.,1,0,0,2,5
+3237.html,Psychiatry / Psychology,CURRENT MEDICATIONS,"daily, lidocaine patch, Zestril, Prinivil 40 mg p.o.",1,0,0,2,5
+1083.html,Discharge Summary,DISCHARGE MEDICATIONS,Flagyl 500 mg every six hours for 10 days.,1,0,1,0,5
+2848.html,Orthopedic,MEDICATIONS,"Glipizide 5 mg with each meal, Advair 250 as needed, aspirin q.h.s., cod liver oil b.i.d., Centrum AZ q.d.",1,0,0,2,5
+2213.html,Neurology,CURRENT MEDICATIONS,"He takes amlodipine, Diovan, Zetia, hydrochlorothiazide, Lovaza (fish oil), Niaspan, aspirin, and Chantix.",0,0,0,5,5
+842.html,Consult - History and Phy.,RECOMMENDATIONS,"For breakthrough agitation, we recommend Zyprexa Zydis 5 mg p.o.",1,0,0,2,5
+813.html,Consult - History and Phy.,MEDICATIONS,"b.i.d., Synthroid 100 mcg p.o.",1,0,0,1,4
+746.html,Consult - History and Phy.,ASSESSMENT AND PLAN,Prescribed Cipro 250 mg q.d.,1,0,0,1,4
+834.html,Consult - History and Phy.,MEDICATIONS,"daily, Fosamax 70 mg p.o.",1,0,0,1,4
+834.html,Consult - History and Phy.,MEDICATIONS,"daily, Femara 2.5 mg p.o.",1,0,0,1,4
+4266.html,Surgery,PLAN,We will also increase his Lasix to 80 mg IV q.d.,1,0,0,1,4
+4266.html,Surgery,PLAN,"At this time, we will transfer the patient to the Intensive Care Unit for titration of the Primacor therapy.",0,0,0,4,4
+4233.html,Surgery,PLAN,The patient will try VESIcare 5 mg with Estrace and follow up in approximately 4 weeks.,1,0,0,1,4
+2311.html,Neurosurgery,MEDICATIONS,"q.d., Detrol LA 4 mg p.o.",1,0,0,1,4
+2311.html,Neurosurgery,MEDICATIONS,"q.d., Zocor 20 mg p.o.",1,0,0,1,4
+2311.html,Neurosurgery,MEDICATIONS,"q.d., Flomax 0.4 mg p.o.",1,0,0,1,4
+2296.html,Neurosurgery,DISPOSITION,The patient after this procedure was brought to the Neuro Intensive Care Unit for close observation.,0,0,0,4,4
+2255.html,Neurology,MEDICATIONS,"The patient has recently been started on Plavix by his primary care doctor, was briefly on baby aspirin 81 mg per day since the TIA-like event three weeks ago.",1,0,0,1,4
+2254.html,Neurology,CURRENT MEDICATIONS,"The patient is on Lanoxin, amoxicillin, Hydergine, Cardizem, Lasix, Micro-K and a salt-free diet.",0,0,0,4,4
+2220.html,Neurology,CURRENT MEDICATIONS,and Dilaudid 2 mg tablets p.o.,1,0,0,1,4
+2220.html,Neurology,CURRENT MEDICATIONS,"p.r.n., Ambien 5 mg p.o.",1,0,0,1,4
+2220.html,Neurology,CURRENT MEDICATIONS,"q.6h., Xanax 0.25 mg p.o.",1,0,0,1,4
+1686.html,General Medicine,MEDICATIONS,"b.i.d., Benicar 40 mg p.o.",1,0,0,1,4
+1686.html,General Medicine,MEDICATIONS,"nightly, Namenda 10 mg p.o.",1,0,0,1,4
+1686.html,General Medicine,MEDICATIONS,"daily, Aricept 10 mg p.o.",1,0,0,1,4
+409.html,Chiropractic,RECOMMENDATIONS,The patient is willing to consider a trial of Avinza at 30 mg p.o.,1,0,0,1,4
+1665.html,General Medicine,MEDICATIONS,"5 mg, Nystatin powder.",1,0,0,1,4
+579.html,Consult - History and Phy.,RECOMMENDATIONS,I went ahead and placed her on Levaquin 500 mg daily for the next 10 days to see if this helps clear up the current sinus condition that she has been having.,1,0,0,1,4
+579.html,Consult - History and Phy.,CURRENT MEDICATIONS,"She is on Zocor, Desyrel, Flonase, and Xanax.",0,0,0,4,4
+3231.html,Psychiatry / Psychology,RECOMMENDATIONS,We changed Seroquel to 12.5 mg p.o.,1,0,0,1,4
+1685.html,General Medicine,MEDICATIONS,"q.d., and Dolobid 1000 mg p.o.",1,0,0,1,4
+1685.html,General Medicine,MEDICATIONS,"q.d., Premarin 0.125 mg p.o.",1,0,0,1,4
+1679.html,General Medicine,PLAN,"For her diabetes mellitus, we will continue the patient on her current regimen of Lantus 12 units subcu.",1,0,0,1,4
+3232.html,Psychiatry / Psychology,ASSESSMENT AND PLAN,at bedtime and Klonopin 0.25 mg p.o.,1,0,0,1,4
+3232.html,Psychiatry / Psychology,ASSESSMENT AND PLAN,Continue Remeron 15 mg p.o.,1,0,0,1,4
+3232.html,Psychiatry / Psychology,ASSESSMENT AND PLAN,"The patient experienced anxiety and had a panic attack yesterday with ""syncopal episodes."" It was relieved by Ativan 0.25 mg p.r.n.",1,0,0,1,4
+1676.html,General Medicine,PLAN,If not then she will fill a prescription for Omnicef 300 mg capsule 1 p.o.,1,0,0,1,4
+1676.html,General Medicine,PLAN,A 1 g of Rocephin IM was given.,1,0,0,1,4
+1695.html,General Medicine,ASSESSMENT AND PLAN,"Miss Bolen is a 59-year-old gravida 1, para 0-0-1-0 with stage IIIC papillary serous adenocarcinoma of the ovary.",0,1,0,1,4
+1692.html,General Medicine,PLAN,"daily, Diovan 160 mg p.o.",1,0,0,1,4
+1661.html,General Medicine,MEDICATIONS,"Requip, Neurontin, Sinemet, Ambien, and Xanax.",0,0,0,4,4
+361.html,Cardiovascular / Pulmonary,MEDICATIONS,"q.d., Coreg CR 40 mg p.o.",1,0,0,1,4
+3237.html,Psychiatry / Psychology,CURRENT MEDICATIONS,"t.i.d., Pamelor 25 mg p.o.",1,0,0,1,4
+3237.html,Psychiatry / Psychology,CURRENT MEDICATIONS,"b.i.d., Starlix 120 mg p.o.",1,0,0,1,4
+3237.html,Psychiatry / Psychology,CURRENT MEDICATIONS,"daily, Lopressor 75 mg p.o.",1,0,0,1,4
+3237.html,Psychiatry / Psychology,CURRENT MEDICATIONS,"daily, Ismo 20 mg p.o.",1,0,0,1,4
+3237.html,Psychiatry / Psychology,CURRENT MEDICATIONS,"each bedtime, Lasix 20 mg p.o.",1,0,0,1,4
+1692.html,General Medicine,PLAN,"Resume home medications, which basically include Aricept 10 mg p.o.",1,0,0,1,4
+1692.html,General Medicine,PLAN,We will start her on IV Vasotec every 4 hours p.r.n.,0,1,0,1,4
+1691.html,General Medicine,PLAN,I refilled her Ambien 5 mg at h.s.,1,0,0,1,4
+1691.html,General Medicine,PLAN,I prescribed Neurontin 100 mg dispensed 30 with five refills one to two p.o.,1,0,0,1,4
+571.html,Consult - History and Phy.,PLAN,He was also given a prescription for 10 days of Augmentin99 and a follow-up appointment for 2 weeks.,0,0,2,0,4
+569.html,Consult - History and Phy.,PLAN,We will control blood pressor with Lopressor 5 mg IV p.r.n.,1,0,0,1,4
+1686.html,General Medicine,MEDICATIONS,"daily, and Claritin 10 mg daily p.r.n.",1,0,0,1,4
+1647.html,General Medicine,PLAN,We will try starting her back on Wellbutrin XL 150 mg daily.,1,0,0,1,4
+3237.html,Psychiatry / Psychology,CURRENT MEDICATIONS,"daily, Lexapro 10 mg p.o.",1,0,0,1,4
+3237.html,Psychiatry / Psychology,CURRENT MEDICATIONS,"daily, Klonopin 0.5 mg p.o.",1,0,0,1,4
+3237.html,Psychiatry / Psychology,CURRENT MEDICATIONS,"daily, Lipitor 20 mg p.o.",1,0,0,1,4
+338.html,Cardiovascular / Pulmonary,ASSESSMENT AND PLAN,I will start her home medications of Pulmicort twice daily and albuterol on a p.r.n.,0,1,0,1,4
+3238.html,Psychiatry / Psychology,PLAN,Continue Lexapro 20 mg p.o.,1,0,0,1,4
+3238.html,Psychiatry / Psychology,CURRENT MEDICATIONS,"p.r.n., and Ambien 5 mg p.o.",1,0,0,1,4
+3238.html,Psychiatry / Psychology,CURRENT MEDICATIONS,"daily, Lopressor 50 mg p.o.",1,0,0,1,4
+3238.html,Psychiatry / Psychology,CURRENT MEDICATIONS,"daily, Lexapro 20 mg p.o.",1,0,0,1,4
+3237.html,Psychiatry / Psychology,CURRENT MEDICATIONS,"p.r.n., Zofran 4 mg IV q.6h.",1,0,0,1,4
+1702.html,General Medicine,ASSESSMENT AND PLAN,Continue Lovenox 40 mg subcu daily.,1,0,0,1,4
+1700.html,General Medicine,PLAN,We will start Fosamax 70 mg once weekly.,1,0,0,1,4
+569.html,Consult - History and Phy.,PLAN,We will give IV Nexium 40 mg daily for GI prophylaxis.,1,0,0,1,4
+1596.html,General Medicine,MEDICATIONS,"Also, Avelox 400 mg p.o.",1,0,0,1,4
+3246.html,Psychiatry / Psychology,PLAN,"Medications resumed include Zyprexa, Actos, levothyroxine, Lipitor, Protonix, glimepiride, and folate.",0,0,0,4,4
+1623.html,General Medicine,PLAN,Continue Levothroid 0.1 mg daily unless dosage need to be adjusted based on the TSH.,1,0,0,1,4
+590.html,Consult - History and Phy.,PLAN,We will try Anaprox DS one every 12 hours for the headache.,0,1,0,1,4
+1620.html,General Medicine,MEDICATIONS,He was on Seroquel 25 mg at bedtime.,1,0,0,1,4
+1604.html,General Medicine,PLAN,Milk of Magnesia suspension 30 mL daily for constipation.,1,0,0,1,4
+1706.html,General Medicine,PLAN,"I strongly encouraged her to increase her Klonopin to what the psychiatrist recommended, which should be 6 mg in the a.m.",1,0,0,1,4
+1706.html,General Medicine,CURRENT MEDICATIONS,Her other meds remain as per the dictation of 07/30/2004 with the exception of her Klonopin dose being 4 mg in a.m.,1,0,0,1,4
+1704.html,General Medicine,PLAN,Increase his Altace to 5 mg day for better blood pressure control.,1,0,0,1,4
+3230.html,Psychiatry / Psychology,RECOMMENDATIONS,Recommend starting Campral 666 mg p.o.,1,0,0,1,4
+3230.html,Psychiatry / Psychology,MEDICATIONS,and Restoril 30 mg p.o.,1,0,0,1,4
+3230.html,Psychiatry / Psychology,MEDICATIONS,His outpatient medications include Lotrel 30 mg p.o.,1,0,0,1,4
+3228.html,Psychiatry / Psychology,MEDICATIONS,"Her medications include hydrochlorothiazide, lisinopril, glipizide, metformin, vitamin D, Centrum multivitamin tablets, Actos, lorazepam as needed, Vytorin, and Celexa.",0,0,0,4,4
+3226.html,Psychiatry / Psychology,CURRENT MEDICATIONS,"Note that medical records say that he was supposed to be taking Lipitor 40 mg, but it is not clear if he was doing so and also there was no specific reason found for why he was taking the levothyroxine.",1,0,0,1,4
+1655.html,General Medicine,PLAN,Change to Zyrtec 10 mg samples were given.,1,0,0,1,4
+1648.html,General Medicine,PLAN,She is currently on Zoloft 100 mg which I think is an appropriate dose.,1,0,0,1,4
+3254.html,Psychiatry / Psychology,CURRENT MEDICATIONS,Prescription: Provigil 100 mg q.a.m.,1,0,0,1,4
+3251.html,Psychiatry / Psychology,DISCHARGE MEDICATIONS,A 2-week supply of the following was phoned into the patient's pharmacy: Seroquel 25 mg p.o.,1,0,0,1,4
+3247.html,Psychiatry / Psychology,CURRENT MEDICATIONS,q.d.; Desyrel 100 mg p.o.,1,0,0,1,4
+3247.html,Psychiatry / Psychology,CURRENT MEDICATIONS,q.d.; Wellbutrin XL 300 mg p.o.,1,0,0,1,4
+1723.html,General Medicine,PLAN,I am giving him a refill on the Nizoral 2% cream that he should use to the foot area twice a day.,0,1,0,1,4
+1720.html,General Medicine,PLAN,I put him on Diflucan 200 mg daily for seven days.,1,0,0,1,4
+3218.html,Psychiatry / Psychology,MEDICATIONS,"t.i.d., Norvasc 10 mg p.o.",1,0,0,1,4
+3218.html,Psychiatry / Psychology,MEDICATIONS,"b.i.d., Haldol 2.5 mg p.o.",1,0,0,1,4
+3218.html,Psychiatry / Psychology,MEDICATIONS,"b.i.d., Artane 2 mg p.o.",1,0,0,1,4
+3215.html,Psychiatry / Psychology,MEDICATIONS,"per day, Lyrica 100 mg p.o.",1,0,0,1,4
+3215.html,Psychiatry / Psychology,MEDICATIONS,"q.p.m., Abilify 15 mg p.o.",1,0,0,1,4
+1710.html,General Medicine,PLAN,"I would continue the Lexapro, we gave her more samples plus a prescription for the 20 mg that she can cut in half.",1,0,0,1,4
+324.html,Cardiovascular / Pulmonary,CURRENT MEDICATIONS,"Include Glucovance, Seroquel, Flomax, and Nexium.",0,0,0,4,4
+3243.html,Psychiatry / Psychology,PLAN,The Internal Medicine Service will evaluate and treat any acute medical issues that could be helpful to collaborate with his providers at Clinic regarding issues related to his AIDS diagnosis.,0,0,0,4,4
+3242.html,Psychiatry / Psychology,CURRENT MEDICATIONS,He has been started on Ativan 2 mg p.o.,1,0,0,1,4
+1727.html,General Medicine,MEDICATIONS,"q nightly, Sorbitol 15 mg p.o.",1,0,0,1,4
+1727.html,General Medicine,MEDICATIONS,"b.i.d., insulin sliding scale, Lunesta 1 mg p.o.",1,0,0,1,4
+1727.html,General Medicine,MEDICATIONS,"q day, Lopressor 50 mg p.o.",1,0,0,1,4
+1727.html,General Medicine,MEDICATIONS,"q day, Lasix 40 mg p.o.",1,0,0,1,4
+1727.html,General Medicine,MEDICATIONS,"q day, Lanoxin 0.125 mg p.o.",1,0,0,1,4
+1727.html,General Medicine,MEDICATIONS,"q nightly, Actos 15 mg p.o.",1,0,0,1,4
+1727.html,General Medicine,MEDICATIONS,"pain, Depakote ER 250 mg p.o.",1,0,0,1,4
+1726.html,General Medicine,ASSESSMENT AND PLAN,She will be started on Cipro 400 mg IV daily.,1,0,0,1,4
+1726.html,General Medicine,ASSESSMENT AND PLAN,We will restart her Lantus 20 units at bedtime with supplemental sliding scale when she is tolerating a diet.,1,0,0,1,4
+1726.html,General Medicine,ASSESSMENT AND PLAN,The patient will receive sliding scale insulin of Humalog every 6 hours while NPO.,0,1,0,1,4
+1726.html,General Medicine,ASSESSMENT AND PLAN,She will also be started on Catapres patch 0.1 mg for 24 hours.,1,0,0,1,4
+432.html,Consult - History and Phy.,CURRENT MEDICATIONS,"Prevacid, Humulin, Diprivan, Proventil, Unasyn, and Solu-Medrol.",0,0,0,4,4
+3213.html,Psychiatry / Psychology,PLAN,I am introducing slow Luvox 25 mg tablet one-half a.m.,1,0,0,1,4
+3164.html,Podiatry,DISCHARGE MEDICATIONS,The patient was continued on Ancef 2 g IV via PICC line and home health administration of IV antibiotics.,1,0,0,1,4
+3246.html,Psychiatry / Psychology,PLAN,The patient was admitted voluntarily to The ABCD Hospital Inpatient Psychiatric Unit under Dr.,0,0,0,4,4
+1574.html,General Medicine,TREATMENT,"The patient was ordered Demerol 50 mg IM for pain, but he refused and did not want pain medication.",1,0,0,1,4
+1564.html,General Medicine,MEDICATIONS,"Listed in the chart and include Coumadin, Lasix, metformin, folic acid, diltiazem, B12, Prevacid, and Feosol.",0,0,0,4,4
+1556.html,Gastroenterology,PLAN,"Rx for Compazine 10 mg tabs, dispense five, sig.",1,0,0,1,4
+1556.html,Gastroenterology,TREATMENT,Patient was given 2 L of normal saline wide open as well as Compazine 5 mg IV x2 doses with resolution of her nausea.,1,0,0,1,4
+1554.html,Gastroenterology,RECOMMENDATIONS,She should take Prevacid SoluTab 30 mg b.i.d.,1,0,0,1,4
+1554.html,Gastroenterology,RECOMMENDATIONS,IV Protonix 40 mg q.12h.,1,0,0,1,4
+1492.html,Gastroenterology,PLAN,"The patient will try this and if he remains symptomatic, then he will call our office and a prescription for Zantac 150 mg per day will be provided.",1,0,0,1,4
+3255.html,Psychiatry / Psychology,PLAN,She should start Cymbalta 30 mg per day immediately.,1,0,0,1,4
+3255.html,Psychiatry / Psychology,PLAN,"I have instructed her to decrease Wellbutrin to 200 mg per day for the next week, then discontinue.",1,0,0,1,4
+3129.html,Pediatrics - Neonatal,MEDICATIONS,"120 mg, Xopenex and albuterol p.r.n.",1,0,0,1,4
+3123.html,Pediatrics - Neonatal,ASSESSMENT AND PLAN,"and a prescription for Elocon ointment to be applied topically, except for the face, once a day with a refill.",0,1,0,1,4
+3123.html,Pediatrics - Neonatal,ASSESSMENT AND PLAN,Prescription for Atarax 10 mg tablets one to two tablets p.o.,1,0,0,1,4
+1727.html,General Medicine,MEDICATIONS,"q day, Zoloft 50 mg p.o.",1,0,0,1,4
+3554.html,Sleep Medicine,MEDICATIONS,She continues to take Ativan 1 mg every six hours as needed.,1,0,0,1,4
+1439.html,Gastroenterology,PLAN,Being Nexium 40 mg a day.,1,0,0,1,4
+3540.html,Rheumatology,PLAN,"I am going to switch him to Indocin 75 mg SR just to give more sustained effect to his joints, and if he does not respond to this or continue with the symptoms, we may need to get an MRI.",1,0,0,1,4
+1457.html,Gastroenterology,PLAN,We would start Modulon 50 mL/h for 20 hours to reverse the malnutrition state of this boy.,1,0,0,1,4
+1457.html,Gastroenterology,PLAN,"If these are normal, then we would recommend Remicade 5 mg/kg IV infusion.",1,0,0,1,4
+1455.html,Gastroenterology,PLAN,Continue Prevacid 7.5 mg p.o.,1,0,0,1,4
+3537.html,Rheumatology,MEDICATIONS,"Medications prior to admission: Os-Cal, Zyrtec, potassium, Plavix, Bumex, Diovan.",0,0,0,4,4
+1492.html,Gastroenterology,PLAN,Continue Imuran 100 mg per day.,1,0,0,1,4
+1191.html,Emergency Room Reports,MEDICATIONS,Phenergan and Zofran twice a day.,0,1,0,1,4
+1189.html,Emergency Room Reports,PLAN,The patient was encouraged to take Motrin 400 mg q.6h.,1,0,0,1,4
+252.html,Cardiovascular / Pulmonary,ASSESSMENT AND PLAN,I have also added Aldactone 25 mg p.o.,1,0,0,1,4
+252.html,Cardiovascular / Pulmonary,ASSESSMENT AND PLAN,I have advised him to take Lasix 40 mg p.o.,1,0,0,1,4
+1732.html,General Medicine,CURRENT MEDICATIONS,She is on Trizivir 1 tablet p.o.,1,0,0,1,4
+260.html,Cardiovascular / Pulmonary,MEDICATIONS,"q.d., Spiriva 10 mcg q.d., and albuterol p.r.n.",1,0,0,1,4
+3560.html,Sleep Medicine,MEDICATIONS,Albuterol and Flovent inhalers two puffs by mouth twice a day.,0,1,0,1,4
+1217.html,Endocrinology,ASSESSMENT AND PLAN,"The patient is not taking statin, therefore, we will prescribe Lipitor 20 mg one p.o.",1,0,0,1,4
+3575.html,SOAP / Chart / Progress Notes,PLAN,We are going to give her Valtrex 1 g t.i.d.,1,0,0,1,4
+3075.html,Pediatrics - Neonatal,MEDICATIONS,"Advair, Nasonex, Xopenex, Zicam, Zithromax, prednisone, and albuterol.",0,0,0,4,4
+3043.html,Pain Management,MEDICATIONS,"Lotrel, Diovan, Pravastatin, Toprol, Actos, aspirin.",0,0,0,4,4
+451.html,Consult - History and Phy.,MEDICATIONS,"daily, Lopressor tartrate 50 mg p.o.",1,0,0,1,4
+1156.html,Emergency Room Reports,ASSESSMENT AND PLAN,"A 34-year-old Caucasian female, gravida 2 para 1-0-0-1, at unknown gestation who presents after suicide attempt.",0,1,0,1,4
+222.html,Cardiovascular / Pulmonary,PRESCRIPTIONS,"Nitroglycerin; dosage: 0.1 mg/hr film, extended release Sig: as needed for chest pain, dispense: 20, refills: 0, allow generic: no.",1,0,0,1,4
+3598.html,SOAP / Chart / Progress Notes,MEDICATIONS,"b.i.d., Megace 40 mg p.o.",1,0,0,1,4
+3598.html,SOAP / Chart / Progress Notes,MEDICATIONS,"day, Combivent inhaler p.r.n., omeprazole 20 mg p.o.",1,0,0,1,4
+1804.html,General Medicine,CURRENT MEDICATIONS,"daily, and Aricept 10 mg p.o.",1,0,0,1,4
+1804.html,General Medicine,CURRENT MEDICATIONS,"at bedtime, and Xanax 0.25 mg p.o.",1,0,0,1,4
+1799.html,General Medicine,PLAN,The patient will be given Augmentin 875 mg 1 p.o.,1,0,0,1,4
+1790.html,General Medicine,CURRENT MEDICATIONS,"Generic Maxzide, Climara patch, multivitamin, Tums, Claritin, and vitamin C.",0,0,0,4,4
+2927.html,Orthopedic,RECOMMENDATIONS,"I have asked her to discontinue it and we will start her on Tylenol #3, up to four times a day.",0,1,0,1,4
+1848.html,Hematology - Oncology,DISCHARGE MEDICATIONS,"Zofran, Phenergan, Coumadin, and Lovenox, and Vicodin",0,0,0,4,4
+2929.html,Orthopedic,MEDICATIONS,"Kadian 30 mg b.i.d., Zanaflex one-half to one tablet p.r.n.",1,0,0,1,4
+2928.html,Orthopedic,RECOMMENDATIONS,"XYZ advised that if she continues to have pain, even after this injection, she could put on an extra 50 mcg patch and take a couple of extra Percocet if needed.",1,0,0,1,4
+1862.html,Hematology - Oncology,CURRENT MEDICATIONS,"daily, and Restoril 30 mg at bedtime as needed for sleep.",1,0,0,1,4
+1862.html,Hematology - Oncology,CURRENT MEDICATIONS,"daily, Cymbalta 60 mg p.o.",1,0,0,1,4
+1862.html,Hematology - Oncology,CURRENT MEDICATIONS,"daily, Norvasc 10 mg p.o.",1,0,0,1,4
+1862.html,Hematology - Oncology,CURRENT MEDICATIONS,"p.r.n., Plavix 75 mg p.o.",1,0,0,1,4
+1862.html,Hematology - Oncology,CURRENT MEDICATIONS,"daily, Phenergan 25 mg p.o.",1,0,0,1,4
+1862.html,Hematology - Oncology,CURRENT MEDICATIONS,"b.i.d., Levoxyl 75 mcg p.o.",1,0,0,1,4
+1074.html,Discharge Summary,DISCHARGE MEDICATIONS,"She was given a scripts for Lortab Elixir, Flexeril, ursodiol, and Colace.",0,0,0,4,4
+2849.html,Orthopedic,PLAN,"Rx for Voltaren 75 mg tabs, dispensed 20, sig.",1,0,0,1,4
+931.html,Consult - History and Phy.,PLAN,We will start Keflex 500 mg one p.o.,1,0,0,1,4
+3664.html,SOAP / Chart / Progress Notes,CURRENT MEDICATIONS,Include Lipitor 80 mg q.d.,1,0,0,1,4
+1908.html,Hospice - Palliative Care,ASSESSMENT AND PLAN,We will start Megace 200 mg daily.,1,0,0,1,4
+522.html,Consult - History and Phy.,PLAN,"She does have some abdominal discomfort with the anti-inflammatories, was started on Nexium 20 mg one p.o.",1,0,0,1,4
+1907.html,Hospice - Palliative Care,MEDICATIONS,"fever, which he has not been using, Motrin 400 mg q.6h.",1,0,0,1,4
+914.html,Consult - History and Phy.,ASSESSMENT AND PLAN,He was also given a prescription for 6 months of Flomax and Proscar.,0,0,1,2,4
+3672.html,SOAP / Chart / Progress Notes,PLAN,Increased her Aricept to 10 mg daily.,1,0,0,1,4
+2741.html,Orthopedic,MEDICATIONS,The patient also received 30 mL of 0.5% Marcaine local anesthetic at the end of the case.,1,0,0,1,4
+2655.html,Orthopedic,PLAN,He will also need to be on some Lovenox for a week after surgery and then on an aspirin as he is going to travel back to Angola.,0,0,1,2,4
+2655.html,Orthopedic,PLAN,"He would be nonweightbearing in a splint for 10 days, nonweightbearing in a dynamic brace for 4 weeks, and then a walking boot for another six weeks with a lift until three months postop when we can get him into a shoe with a ¼"" lift.",0,0,2,0,4
+1909.html,Hospice - Palliative Care,PLAN,I believe the patient might benefit from low-dose hypnotic and 7.5 mg of Restoril was ordered.,1,0,0,1,4
+1909.html,Hospice - Palliative Care,MEDICATIONS,His medications include Avelox 400 mg.,1,0,0,1,4
+874.html,Consult - History and Phy.,PLAN,We will also give him 10 mg of Zaroxolyn p.o.,1,0,0,1,4
+874.html,Consult - History and Phy.,PLAN,"We will get a BMP, phosphorus, mag, CBC in the morning since he was given 80 mg of Lasix for fluid retention.",1,0,0,1,4
+1969.html,Nephrology,PLAN,Start Aranesp 60 mcg every two weeks.,1,0,0,1,4
+1960.html,Nephrology,RECOMMENDATIONS,Decrease Lasix to 20 mg daily.,1,0,0,1,4
+1922.html,IME-QME-Work Comp etc.,MEDICATIONS,"Glucophage, Lipitor, Actos, Benicar, glimepiride, and Januvia.",0,0,0,4,4
+3672.html,SOAP / Chart / Progress Notes,CURRENT MEDICATIONS,"Her meds are fairly extensive and include B12 1000 mg IM monthly, Digitek 250 p.o.",1,0,0,1,4
+3703.html,SOAP / Chart / Progress Notes,MEDICATIONS,He also uses Metamucil four times daily and stool softeners for bedtime.,0,1,0,1,4
+2032.html,Nephrology,DISPOSITION,The patient was discharged to Post Anesthesia Care Unit and subsequently to genitourinary floor to begin his recovery.,0,0,0,4,4
+3914.html,Surgery,MEDICATIONS,"Valium, Benadryl 50 mg p.o.",1,0,0,1,4
+98.html,Cardiovascular / Pulmonary,RECOMMENDATIONS,"Aspirin indefinitely, and Plavix 75 mg p.o.",1,0,0,1,4
+2463.html,Obstetrics / Gynecology,MEDICATIONS,Lexapro 10 mg a day and Yaz.,1,0,0,1,4
+107.html,Cardiovascular / Pulmonary,MEDICATIONS,Patient was given a sample of Diovan 80 mg daily for the control of hypertension from my office.,1,0,0,1,4
+3717.html,SOAP / Chart / Progress Notes,PLAN,The patient is going to use Anaprox double strength one pill every 12 hours with food as well as a cock-up wrist splint.,0,1,0,1,4
+3711.html,SOAP / Chart / Progress Notes,PLAN,He was given a sample of Cialis 10 mg with instructions on usage and a prescription for that if that is successful.,1,0,0,1,4
+493.html,Consult - History and Phy.,RECOMMENDATIONS,She was placed on Veramyst nasal spray two sprays each nostril daily and even twice daily if symptoms are worsening.,0,1,0,1,4
+2220.html,Neurology,CURRENT MEDICATIONS,"p.r.n., Reglan 10 mg p.o.",1,0,0,1,4
+2220.html,Neurology,CURRENT MEDICATIONS,"per day, Amoxil 500 mg p.o.",1,0,0,1,4
+2220.html,Neurology,CURRENT MEDICATIONS,"per day, Lortab 10 mg p.o.",1,0,0,1,4
+2220.html,Neurology,CURRENT MEDICATIONS,"per day, Prilosec 20 mg p.o.",1,0,0,1,4
+2220.html,Neurology,CURRENT MEDICATIONS,"q.i.d., Cymbalta 30 mg p.o.",1,0,0,1,4
+0.html,Allergy / Immunology,PLAN,Samples of Nasonex two sprays in each nostril given for three weeks.,0,0,1,1,3
+6.html,Allergy / Immunology,DISCHARGE MEDICATIONS,Aspirin high dose 340 mg q.6h.,1,0,0,0,3
+4964.html,Urology,MEDICATIONS,"Lisinopril, Aspirin, Zocor, and Prilosec.",0,0,0,3,3
+4990.html,Urology,MEDICATIONS,Coumadin 3 mg daily.,1,0,0,0,3
+4901.html,Urology,PLAN,Cipro 500 mg b.i.d.,1,0,0,0,3
+18.html,Bariatrics,MEDICATIONS,"daily, currently stopped, omega-3 fatty acids, and vitamin D 50,000 units q.",1,0,0,0,3
+801.html,Consult - History and Phy.,MEDICATIONS,Prozac 20 mg q.d.,1,0,0,0,3
+813.html,Consult - History and Phy.,MEDICATIONS,"daily, octreotide IM on a monthly basis, morphine extended release 50 mg p.o.",1,0,0,0,3
+813.html,Consult - History and Phy.,MEDICATIONS,"daily, desmopressin 1 tablet p.o.",1,0,0,0,3
+815.html,Consult - History and Phy.,RECOMMENDATIONS,I have written a prescription for this for 120 tablets and two refills.,1,0,0,0,3
+816.html,Consult - History and Phy.,CURRENT MEDICATIONS,"She also is on warfarin 1 mg daily, which she states is just to keep her chest port patent.",1,0,0,0,3
+752.html,Consult - History and Phy.,MEDICATIONS,Fluconazole 37.5 mg daily.,1,0,0,0,3
+4649.html,Surgery,DISPOSITION,The patient tolerated well and transferred to Postanesthesia Care Unit in satisfactory condition.,0,0,0,3,3
+4849.html,Urology,CURRENT MEDICATIONS,Metoprolol 100 mg b.i.d.,1,0,0,0,3
+4849.html,Urology,CURRENT MEDICATIONS,Diltiazem 120 mg daily.,1,0,0,0,3
+4849.html,Urology,CURRENT MEDICATIONS,Hydrocodone 10/500 mg p.r.n.,1,0,0,0,3
+4849.html,Urology,CURRENT MEDICATIONS,Pravastatin 40 mg daily.,1,0,0,0,3
+4849.html,Urology,CURRENT MEDICATIONS,Lisinopril 20 mg daily.,1,0,0,0,3
+4849.html,Urology,CURRENT MEDICATIONS,Hydrochlorothiazide 25 mg daily.,1,0,0,0,3
+491.html,Consult - History and Phy.,RECOMMENDATIONS,His PTH is elevated and I am going to add PhosLo 800 mg t.i.d.,1,0,0,0,3
+491.html,Consult - History and Phy.,RECOMMENDATIONS,His bicarbonate is 18 and I will initiate the sodium bicarbonate 650 mg three tablets t.i.d.,1,0,0,0,3
+2220.html,Neurology,CURRENT MEDICATIONS,Fludrocortisone 0.1 mg p.o.,1,0,0,0,3
+2220.html,Neurology,CURRENT MEDICATIONS,"q.d., midodrine 5 mg p.o.",1,0,0,0,3
+2311.html,Neurosurgery,MEDICATIONS,Plavix 75 mg p.o.,1,0,0,0,3
+2311.html,Neurosurgery,MEDICATIONS,"q.d., metoprolol 25 mg p.o.",1,0,0,0,3
+2311.html,Neurosurgery,MEDICATIONS,"q.d., lisinopril 10 mg p.o.",1,0,0,0,3
+2376.html,Obstetrics / Gynecology,MEDICATIONS,Lexapro 10 mg daily.,1,0,0,0,3
+490.html,Consult - History and Phy.,MEDICATIONS,Warfarin - 5 mg daily.,1,0,0,0,3
+490.html,Consult - History and Phy.,MEDICATIONS,Magnesium oxide - 200 mg daily.,1,0,0,0,3
+491.html,Consult - History and Phy.,MEDICATIONS,Lasix 20 mg b.i.d.,1,0,0,0,3
+2235.html,Neurology,MEDICATIONS,"Coumadin, Keppra, Decadron, and Glucophage.",0,0,0,3,3
+2167.html,Neurology,MEDICATIONS,"His other medicines include oxycodone, an aspirin a day, Prilosec, Dilantin 300 a day, and Flagyl.",0,0,0,3,3
+2210.html,Neurology,MEDICATIONS,Lamictal 250 mg b.i.d.,1,0,0,0,3
+2214.html,Neurology,MEDICATIONS,G-CSF 50 mcg subcutaneously given daily in his thighs alternating with each dose.,1,0,0,0,3
+491.html,Consult - History and Phy.,RECOMMENDATIONS,I am going to instruct him in a low-potassium diet and decrease his valsartan to 20 mg daily.,1,0,0,0,3
+2376.html,Obstetrics / Gynecology,MEDICATIONS,Ambien 10 mg tablets one by mouth at bedtime.,1,0,0,0,3
+480.html,Consult - History and Phy.,MEDICATIONS,Cefazolin 1 g intravenous (IV).,1,0,0,0,3
+2410.html,Obstetrics / Gynecology,PLAN,Prescription written for 20 tablets.,1,0,0,0,3
+2413.html,Obstetrics / Gynecology,PLAN,The patient will be treated with metronidazole 500 mg p.o.,1,0,0,0,3
+2413.html,Obstetrics / Gynecology,PLAN,twice a day x7 days.,0,1,0,0,3
+2441.html,Obstetrics / Gynecology,ASSESSMENT AND PLAN,"The patient is a 26-year-old gravida 2, para 1-0-0-1 at 28-1 weeks with left lower quadrant pain and likely constipation.",0,1,0,0,3
+476.html,Consult - History and Phy.,MEDICATIONS,Evista 60 mg daily.,1,0,0,0,3
+476.html,Consult - History and Phy.,MEDICATIONS,Lopressor 25 mg daily.,1,0,0,0,3
+474.html,Consult - History and Phy.,MEDICATIONS,Colace 100 mg p.o.,1,0,0,0,3
+474.html,Consult - History and Phy.,MEDICATIONS,Atenolol 50 mg p.o.,1,0,0,0,3
+474.html,Consult - History and Phy.,MEDICATIONS,Lantus insulin 15 units subcutaneously every evening.,1,0,0,0,3
+474.html,Consult - History and Phy.,MEDICATIONS,Protonix 40 mg p.o.,1,0,0,0,3
+474.html,Consult - History and Phy.,MEDICATIONS,Furosemide 40 mg p.o.,1,0,0,0,3
+474.html,Consult - History and Phy.,MEDICATIONS,Norvasc 5 mg p.o.,1,0,0,0,3
+2457.html,Obstetrics / Gynecology,MEDICATIONS,Atenolol 50 mg daily 2.,1,0,0,0,3
+2457.html,Obstetrics / Gynecology,MEDICATIONS,Clonidine 0.1 mg nightly.,1,0,0,0,3
+2457.html,Obstetrics / Gynecology,MEDICATIONS,Gabapentin 300 mg p.o.,1,0,0,0,3
+2150.html,Neurology,ASSESSMENT AND PLAN,I will give him 30 mL every two hours until he has a bowel movement.,1,0,0,0,3
+2152.html,Neurology,MEDICATIONS,"Her medications on admission, alprazolam 0.5 mg p.o.",1,0,0,0,3
+2152.html,Neurology,MEDICATIONS,"daily, nortriptyline 50 mg p.o.",1,0,0,0,3
+2159.html,Neurology,ASSESSMENT AND PLAN,Khan at Physical Medicine and Rehabilitation for continued aggressive management.,0,0,0,3,3
+2166.html,Neurology,RECOMMENDATIONS,"If this is the case, I have advised her to increase her gabapentin dose from 300 mg b.i.d.",1,0,0,0,3
+2072.html,Neurology,MEDICATIONS,Synthroid 100 mcg per day.,1,0,0,0,3
+2136.html,Neurology,CURRENT MEDICATIONS,Primidone 100 mg b.i.d.,1,0,0,0,3
+2136.html,Neurology,CURRENT MEDICATIONS,Propranolol long-acting 80 mg once in the morning.,1,0,0,0,3
+2137.html,Neurology,DISCHARGE MEDICATIONS,Tylenol 650 mg q.6h.,1,0,0,0,3
+500.html,Consult - History and Phy.,MEDICATIONS,None except the Amoxil and Aldex started on Monday.,0,0,0,3,3
+2138.html,Neurology,RECOMMENDATIONS,I instructed him to slowly taper the dose over several days to 300 mg t.i.d.,1,0,0,0,3
+2144.html,Neurology,RECOMMENDATIONS,The patient is to start taking aspirin 162 mg per day.,1,0,0,0,3
+2148.html,Neurology,MEDICATIONS,"Glyburide, Avandia, metformin, lisinopril, Lipitor, aspirin, metoprolol and Zonegran.",0,0,0,3,3
+476.html,Consult - History and Phy.,PLAN,Diovan 80 mg has been given to the patient from our sample closet for the control of hypertension.,1,0,0,0,3
+474.html,Consult - History and Phy.,MEDICATIONS,Aspirin 81 mg p.o.,1,0,0,0,3
+474.html,Consult - History and Phy.,MEDICATIONS,Isosorbide mononitrate 60 mg p.o.,1,0,0,0,3
+2519.html,Office Notes,MEDICATIONS,Ambien 10 mg at bedtime p.r.n.,1,0,0,0,3
+2519.html,Office Notes,MEDICATIONS,Coumadin 7.5 mg daily.,1,0,0,0,3
+2519.html,Office Notes,MEDICATIONS,Diovan 320 mg daily.,1,0,0,0,3
+2519.html,Office Notes,MEDICATIONS,Lantus insulin 50 units in the morning.,1,0,0,0,3
+2519.html,Office Notes,MEDICATIONS,Lasix 80 mg daily.,1,0,0,0,3
+2519.html,Office Notes,MEDICATIONS,Toprol XL 100 mg daily.,1,0,0,0,3
+507.html,Consult - History and Phy.,ASSESSMENT AND PLAN,I am going to have her fitted with a low profile back brace and I am starting her on diclofenac 75 mg p.o.,1,0,0,0,3
+508.html,Consult - History and Phy.,CURRENT MEDICATIONS,Aspirin 1 tab x 1 / day.,1,0,0,0,3
+508.html,Consult - History and Phy.,CURRENT MEDICATIONS,Calan SR 120 mg.,1,0,0,0,3
+2070.html,Neurology,CURRENT MEDICATIONS,Lamotrigine 150 mg p.o.,1,0,0,0,3
+2070.html,Neurology,PLAN,Continue lamotrigine 150 mg p.o.,1,0,0,0,3
+23.html,Bariatrics,MEDICATIONS,Crestor 20 mg p.o.,1,0,0,0,3
+23.html,Bariatrics,MEDICATIONS,"daily, hydrochlorothiazide 20 mg p.o.",1,0,0,0,3
+828.html,Consult - History and Phy.,ASSESSMENT AND PLAN,He will be on 20 mg p.o.,1,0,0,0,3
+828.html,Consult - History and Phy.,ASSESSMENT AND PLAN,"If blood pressure remains above systolic of 150 within 3 days, the patient should increase lisinopril to 40 mg p.o.",1,0,0,0,3
+828.html,Consult - History and Phy.,ASSESSMENT AND PLAN,"If blood pressure, however, remains above 150 systolic despite 40 mg of lisinopril, the patient should make an appointment to see his primary physician in a week's time.",1,0,0,0,3
+513.html,Consult - History and Phy.,MEDICATIONS,Januvia 100 mg daily.,1,0,0,0,3
+2025.html,Nephrology,MEDICATIONS,Pravachol 80 mg a day in the evening.,1,0,0,0,3
+2025.html,Nephrology,MEDICATIONS,Vitamin E once a day.,0,1,0,0,3
+2026.html,Nephrology,CURRENT MEDICATIONS,Pravachol 20 mg q.d.,1,0,0,0,3
+2026.html,Nephrology,CURRENT MEDICATIONS,Metoprolol 50 mg one-half tablet b.i.d.,1,0,0,0,3
+2026.html,Nephrology,CURRENT MEDICATIONS,Norvasc 10 mg a day.,1,0,0,0,3
+2026.html,Nephrology,CURRENT MEDICATIONS,Aspirin 81 mg a day.,1,0,0,0,3
+2457.html,Obstetrics / Gynecology,MEDICATIONS,Norvasc 5 mg daily.,1,0,0,0,3
+2462.html,Obstetrics / Gynecology,MEDICATIONS,Zoloft 50 mg a day and LactAid.,1,0,0,0,3
+40.html,Cardiovascular / Pulmonary,MEDICATIONS,HCTZ 50 mg QDay.,1,0,0,0,3
+40.html,Cardiovascular / Pulmonary,MEDICATIONS,Nitroglycerin 1/150 sublingually PRN chest pain.,0,1,0,0,3
+40.html,Cardiovascular / Pulmonary,PLAN,Patient admitted to Coronary Care Unit under the care of Dr.,0,0,0,3,3
+834.html,Consult - History and Phy.,MEDICATIONS,Hyzaar 12.5 mg p.o.,1,0,0,0,3
+834.html,Consult - History and Phy.,MEDICATIONS,"every week, aspirin 81 mg p.o.",1,0,0,0,3
+746.html,Consult - History and Phy.,ASSESSMENT AND PLAN,I prescribed ciprofloxacin 250 mg q.d.,1,0,0,0,3
+836.html,Consult - History and Phy.,MEDICATIONS,Tramadol 50 mg p.o.,1,0,0,0,3
+54.html,Cardiovascular / Pulmonary,MEDICATIONS,Colace 200 mg two at bedtime.,1,0,0,0,3
+54.html,Cardiovascular / Pulmonary,MEDICATIONS,Labetalol 100 mg p.o.,1,0,0,0,3
+4263.html,Surgery,PLAN,Consultation will be obtained with Cardiovascular and Thoracic Surgery for CABG and mitral valve repair versus replacement.,0,0,0,3,3
+1971.html,Nephrology,CURRENT MEDICATIONS,Lasix 20 mg a day.,1,0,0,0,3
+1971.html,Nephrology,ASSESSMENT AND PLAN,"0.6 units per hour, 4 a.m.",1,0,0,0,3
+1971.html,Nephrology,ASSESSMENT AND PLAN,"0.7 units per hour, and 9 a.m.",1,0,0,0,3
+1971.html,Nephrology,ASSESSMENT AND PLAN,0.6 units per hour.,1,0,0,0,3
+2021.html,Nephrology,CURRENT MEDICATIONS,Nexium 40 mg q.d.,1,0,0,0,3
+2021.html,Nephrology,CURRENT MEDICATIONS,Synthroid 1 mg q.d.,1,0,0,0,3
+516.html,Consult - History and Phy.,RECOMMENDATIONS,"The parents are agreeable to the planned procedure, and we will schedule this accordingly at Memorial Medical Center here within the next few weeks.",0,0,0,3,3
+2021.html,Nephrology,ASSESSMENT AND PLAN,This patient has chronic kidney disease stage 4 with an estimated creatinine clearance of 23 mL/minute.,1,0,0,0,3
+511.html,Consult - History and Phy.,CURRENT MEDICATIONS,Aciphex 20 mg q.d.,1,0,0,0,3
+511.html,Consult - History and Phy.,CURRENT MEDICATIONS,and aspirin 81 mg q.d.,1,0,0,0,3
+513.html,Consult - History and Phy.,MEDICATIONS,Glipizide 5 mg p.o.,1,0,0,0,3
+472.html,Consult - History and Phy.,PLAN,Recommend the patient use 1 unit of insulin for every 10-g carbohydrate load consumed.,1,0,0,0,3
+2520.html,Office Notes,MEDICATIONS,BuSpar 50 mg daily.,1,0,0,0,3
+2520.html,Office Notes,MEDICATIONS,Zetia 10 mg daily.,1,0,0,0,3
+2520.html,Office Notes,MEDICATIONS,Ambien 10 mg at bedtime.,1,0,0,0,3
+2520.html,Office Notes,MEDICATIONS,Fosamax 70 mg weekly.,1,0,0,0,3
+2523.html,Office Notes,PLAN,"Regarding his atrial fibrillation, he is moderately rate controlled with metoprolol 50 mg b.i.d.",1,0,0,0,3
+2523.html,Office Notes,PLAN,"We have also increased his lisinopril to 5 mg daily, but the patient did not receive his script upon departing our clinic.",1,0,0,0,3
+1971.html,Nephrology,CURRENT MEDICATIONS,Calcium carbonate 500 mg 3 times a day.,1,0,0,0,3
+1971.html,Nephrology,CURRENT MEDICATIONS,NovoLog insulin via insulin pump about 30 units of insulin daily.,1,0,0,0,3
+1971.html,Nephrology,CURRENT MEDICATIONS,Zocor 40 mg a day.,1,0,0,0,3
+1971.html,Nephrology,CURRENT MEDICATIONS,Valsartan 80 mg daily.,1,0,0,0,3
+1971.html,Nephrology,CURRENT MEDICATIONS,Amlodipine 5 mg a day.,1,0,0,0,3
+1971.html,Nephrology,CURRENT MEDICATIONS,Plavix 75 mg a day.,1,0,0,0,3
+1968.html,Nephrology,MEDICATIONS,Valsartan 20 mg b.i.d.,1,0,0,0,3
+1968.html,Nephrology,MEDICATIONS,Ambien 10 mg q.h.s.,1,0,0,0,3
+1968.html,Nephrology,RECOMMENDATIONS,I have added labetolol 100 mg b.i.d.,1,0,0,0,3
+1970.html,Nephrology,CURRENT MEDICATIONS,Vytorin 10/40 mg one a day.,1,0,0,0,3
+1970.html,Nephrology,CURRENT MEDICATIONS,Lasix 40 mg a day.,1,0,0,0,3
+1971.html,Nephrology,CURRENT MEDICATIONS,Hydroxyzine 25 mg 4 times a day.,1,0,0,0,3
+1971.html,Nephrology,CURRENT MEDICATIONS,Claritin 5 mg a day.,1,0,0,0,3
+1971.html,Nephrology,CURRENT MEDICATIONS,Fluoxetine 20 mg a day.,1,0,0,0,3
+1971.html,Nephrology,CURRENT MEDICATIONS,Protonix 40 mg a day.,1,0,0,0,3
+1971.html,Nephrology,CURRENT MEDICATIONS,Actonel 35 mg once a week.,1,0,0,0,3
+1971.html,Nephrology,CURRENT MEDICATIONS,Zantac 150 mg daily.,1,0,0,0,3
+4266.html,Surgery,PLAN,We will increase his amiodarone to 400 mg daily.,1,0,0,0,3
+836.html,Consult - History and Phy.,MEDICATIONS,Quinine sulfate 325 mg p.o.,1,0,0,0,3
+836.html,Consult - History and Phy.,MEDICATIONS,Meclizine 12.5 mg p.o.,1,0,0,0,3
+836.html,Consult - History and Phy.,MEDICATIONS,Aldactone 25 mg p.o.,1,0,0,0,3
+836.html,Consult - History and Phy.,MEDICATIONS,"Theo-24 200 mg p.o., 2 in the morning.",1,0,0,0,3
+836.html,Consult - History and Phy.,MEDICATIONS,Trazodone 50 mg p.o.,1,0,0,0,3
+836.html,Consult - History and Phy.,MEDICATIONS,"Janumet 50/500, 1 tablet p.o.",1,0,0,0,3
+54.html,Cardiovascular / Pulmonary,MEDICATIONS,Sensipar 120 mg p.o.,1,0,0,0,3
+54.html,Cardiovascular / Pulmonary,MEDICATIONS,Sertraline 100 mg p.o.,1,0,0,0,3
+54.html,Cardiovascular / Pulmonary,MEDICATIONS,Zocor 20 mg p.o.,1,0,0,0,3
+4180.html,Surgery,RECOMMENDATIONS,Hold Lovenox for 5 days.,0,0,1,1,3
+2562.html,Office Notes,PLAN,He will be given a prescription of Vicoprofen as he is unable to tolerate the Tylenol due to his Accutane.,0,0,0,3,3
+2562.html,Office Notes,PLAN,"every 6 hours or as needed, #12.",0,1,0,0,3
+1911.html,Hospice - Palliative Care,MEDICATIONS,Roxanol concentrate 5 mg three hours p.r.n.,1,0,0,0,3
+1960.html,Nephrology,RECOMMENDATIONS,Decrease atenolol to 25 mg daily.,1,0,0,0,3
+1960.html,Nephrology,RECOMMENDATIONS,Decrease enalapril to 10 mg daily.,1,0,0,0,3
+1884.html,Hematology - Oncology,CURRENT MEDICATIONS,"p.r.n., cefuroxime 200 mg q.d.",1,0,0,0,3
+1907.html,Hospice - Palliative Care,MEDICATIONS,Acetaminophen 650 mg q.6h.,1,0,0,0,3
+1907.html,Hospice - Palliative Care,MEDICATIONS,His pain and dexamethasone with guaifenesin 5-10 mL q.4h.,1,0,0,0,3
+1907.html,Hospice - Palliative Care,ASSESSMENT AND PLAN,We will start oxycodone 5 mg q.2h.,1,0,0,0,3
+1907.html,Hospice - Palliative Care,ASSESSMENT AND PLAN,We will use lorazepam 0.25-0.5 mg at bedtime as needed.,1,0,0,0,3
+460.html,Consult - History and Phy.,MEDICATIONS,Atenolol 5 mg daily.,1,0,0,0,3
+462.html,Consult - History and Phy.,CURRENT MEDICATIONS,"Morphine, Darvocet, Flomax, Avodart and ibuprofen.",0,0,0,3,3
+2567.html,Office Notes,DISCHARGE MEDICATIONS,Glipizide - 5 mg every morning.,1,0,0,0,3
+2658.html,Orthopedic,PLAN,Motrin 800 mg t.i.d.,1,0,0,0,3
+2828.html,Orthopedic,MEDICATIONS,Ambien 12.5 mg nightly.,1,0,0,0,3
+2828.html,Orthopedic,MEDICATIONS,Methadone 10 mg b.i.d.,1,0,0,0,3
+2828.html,Orthopedic,MEDICATIONS,Lisinopril 10 mg daily.,1,0,0,0,3
+457.html,Consult - History and Phy.,MEDICATIONS,"Current meds, which are her outpatient meds, which she is not taking at the moment are lithium 300 mg p.o.",1,0,0,0,3
+457.html,Consult - History and Phy.,MEDICATIONS,AM and 600 mg p.o.,1,0,0,0,3
+529.html,Consult - History and Phy.,RECOMMENDATIONS,I did recommend the patient begin a 2 g or less sodium diet.,1,0,0,0,3
+1884.html,Hematology - Oncology,CURRENT MEDICATIONS,Avelox 400 mg q.d.,1,0,0,0,3
+2848.html,Orthopedic,MEDICATIONS,"Lorazepam 0.05 mg, he has a history of using this medication, but most recently stopped taking it.",1,0,0,0,3
+1868.html,Hematology - Oncology,CURRENT MEDICATIONS,"Coumadin 5 mg p.o., was administered on 02/19/2007 and 02/22/2007.",1,0,0,0,3
+1868.html,Hematology - Oncology,CURRENT MEDICATIONS,Protonix 40 mg intravenous (IV) daily.,1,0,0,0,3
+1868.html,Hematology - Oncology,CURRENT MEDICATIONS,Levaquin 750 mg IV on 02/23/2007.,1,0,0,0,3
+1870.html,Hematology - Oncology,CURRENT MEDICATIONS,Prozac 20 mg a day.,1,0,0,0,3
+1870.html,Hematology - Oncology,CURRENT MEDICATIONS,Avandamet 4/1000 mg daily.,1,0,0,0,3
+1870.html,Hematology - Oncology,CURRENT MEDICATIONS,Nexium 20 mg a day.,1,0,0,0,3
+1872.html,Hematology - Oncology,CURRENT MEDICATIONS,Macrobid 100 mg q.d.,1,0,0,0,3
+451.html,Consult - History and Phy.,MEDICATIONS,"b.i.d., lovastatin 10 mg p.o.",1,0,0,0,3
+451.html,Consult - History and Phy.,MEDICATIONS,"at bedtime, citalopram 10 mg p.o.",1,0,0,0,3
+1858.html,Hematology - Oncology,CURRENT MEDICATIONS,"She is on heparin flushes, loperamide, niacin, pantoprazole, Diovan, Afrin nasal spray, caspofungin, daptomycin, Ertapenem, fentanyl or morphine p.r.n.",0,0,0,3,3
+1862.html,Hematology - Oncology,CURRENT MEDICATIONS,"pain, atenolol 50 mg p.o.",1,0,0,0,3
+1868.html,Hematology - Oncology,CURRENT MEDICATIONS,Lovenox 60 mg subcutaneously q.12h.,1,0,0,0,3
+2836.html,Orthopedic,MEDICATIONS,"She is currently on Zyrtec, Flonase, and Ceftin for an ear infection.",0,0,0,3,3
+4181.html,Surgery,PLAN,To start omeprazole 20 mg a day.,1,0,0,0,3
+4188.html,Surgery,PLAN,Begin prednisone 30 mg p.o.,1,0,0,0,3
+4188.html,Surgery,PLAN,"Check CMP and phosphate every Monday, Wednesday, and Friday for receding syndrome noted by following potassium and phosphate.",0,0,0,3,3
+840.html,Consult - History and Phy.,PLAN,"Y tomorrow, so she should followup with him and also plan on contacting the Wilmer Eye Institute to setup an appointment.",0,0,0,3,3
+840.html,Consult - History and Phy.,PLAN,She should followup with the Wilmer Eye Institute as she is complaining of blurry vision and dimming of the lights occasionally.,0,0,0,3,3
+742.html,Consult - History and Phy.,MEDICATIONS,Creon 20 three times daily.,0,1,0,0,3
+742.html,Consult - History and Phy.,MEDICATIONS,"NovoLog 70/30, 10 units at 12 noon daily.",1,0,0,0,3
+742.html,Consult - History and Phy.,MEDICATIONS,Pamelor 15 mL every evening.,1,0,0,0,3
+842.html,Consult - History and Phy.,MEDICATIONS,Seroquel 50 mg p.o.,1,0,0,0,3
+56.html,Cardiovascular / Pulmonary,MEDICATIONS,Hydrochlorothiazide 25 mg a day.,1,0,0,0,3
+56.html,Cardiovascular / Pulmonary,MEDICATIONS,Plendil 10 mg daily.,1,0,0,0,3
