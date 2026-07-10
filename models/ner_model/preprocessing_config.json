@@ -1,0 +1,9 @@
+{
+  "MAX_LEN": 46,
+  "MAX_WORD_LEN": 9,
+  "word_vocab_size": 1417,
+  "char_vocab_size": 78,
+  "tag_vocab_size": 12,
+  "n_train": 585,
+  "n_val": 104
+}
