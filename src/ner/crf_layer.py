@@ -22,6 +22,7 @@ def crf_sequence_score(inputs, tag_indices, sequence_lengths, transition_params)
     """
     batch_size = tf.shape(inputs)[0]
     max_len = tf.shape(inputs)[1]
+    tag_indices = tf.cast(tag_indices, tf.int32) 
 
     # Unary (emission) score: sum of inputs[b, t, tag_indices[b, t]] for t < seq_len
     mask = tf.sequence_mask(sequence_lengths, maxlen=max_len, dtype=inputs.dtype)  # (batch, T)
