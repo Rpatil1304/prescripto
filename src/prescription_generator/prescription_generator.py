@@ -33,6 +33,7 @@ Usage:
 """
 
 from PIL import Image, ImageDraw, ImageFont
+import os
 import textwrap
 
 
@@ -61,13 +62,57 @@ FONT_CANDIDATES = {
     ],
 }
 
+# Devanagari script (used by Hindi and Marathi) needs a different font —
+# Arial/DejaVu don't include Devanagari glyphs and would render blank boxes
+# or "tofu" characters instead of actual text. Noto Sans Devanagari is a
+# free, open-license Google font with full Devanagari support. Place the
+# .ttf files in the assets/fonts/ folder alongside this script (see
+# assets/fonts/README.md for the download link) — this candidate list
+# checks a few common install locations too, in case the font happens to
+# already be installed system-wide.
+FONT_CANDIDATES_DEVANAGARI = {
+    "regular": [
+        os.path.join(os.path.dirname(__file__), "assets", "fonts", "NotoSansDevanagari-Regular.ttf"),
+        "/usr/share/fonts/truetype/noto/NotoSansDevanagari-Regular.ttf",
+        "C:/Windows/Fonts/NotoSansDevanagari-Regular.ttf",
+    ],
+    "bold": [
+        os.path.join(os.path.dirname(__file__), "assets", "fonts", "NotoSansDevanagari-Bold.ttf"),
+        "/usr/share/fonts/truetype/noto/NotoSansDevanagari-Bold.ttf",
+        "C:/Windows/Fonts/NotoSansDevanagari-Bold.ttf",
+    ],
+    # Noto Sans Devanagari ships without a separate italic/oblique variant
+    # in the basic static set, so italic-style text (e.g. the clinic
+    # address line) falls back to regular weight for Devanagari content.
+    "italic": [
+        os.path.join(os.path.dirname(__file__), "assets", "fonts", "NotoSansDevanagari-Regular.ttf"),
+        "/usr/share/fonts/truetype/noto/NotoSansDevanagari-Regular.ttf",
+        "C:/Windows/Fonts/NotoSansDevanagari-Regular.ttf",
+    ],
+}
 
-def _load_font(style, size):
-    for path in FONT_CANDIDATES[style]:
+
+def _contains_devanagari(text: str) -> bool:
+    """Detects whether a string contains any Devanagari script characters
+    (Unicode block U+0900-U+097F), used to auto-select the right font."""
+    return any("\u0900" <= ch <= "\u097F" for ch in text)
+
+
+def _load_font(style, size, use_devanagari=False):
+    candidates = FONT_CANDIDATES_DEVANAGARI[style] if use_devanagari else FONT_CANDIDATES[style]
+    for path in candidates:
         try:
             return ImageFont.truetype(path, size)
         except (OSError, IOError):
             continue
+    # Last-resort fallback: try the non-Devanagari candidates too, then
+    # Pillow's built-in default (better to show *something* than crash).
+    if use_devanagari:
+        for path in FONT_CANDIDATES[style]:
+            try:
+                return ImageFont.truetype(path, size)
+            except (OSError, IOError):
+                continue
     return ImageFont.load_default()
 
 
@@ -142,14 +187,25 @@ def generate_prescription_image(data: dict) -> Image.Image:
     symptoms = data.get("symptoms", []) or []
     medicines = data.get("medicines", []) or []
 
-    font_clinic = _load_font("bold", FONT_SIZES["clinic_name"])
-    font_doctor = _load_font("regular", FONT_SIZES["doctor_name"])
-    font_address = _load_font("italic", FONT_SIZES["address"])
-    font_label = _load_font("bold", FONT_SIZES["section_label"])
-    font_body = _load_font("regular", FONT_SIZES["body"])
-    font_body_bold = _load_font("bold", FONT_SIZES["body"])
-    font_rx = _load_font("bold", FONT_SIZES["rx_symbol"])
-    font_footer = _load_font("italic", FONT_SIZES["footer"])
+    # Detect whether ANY content in this prescription contains Devanagari
+    # script (Hindi/Marathi) — if so, use the Devanagari-capable font
+    # throughout the whole image for consistency, since a prescription is
+    # normally entirely in one language, not mixed per-field.
+    all_text_content = " ".join([
+        clinic_name, doctor_name, clinic_address, patient_name, date, age,
+        " ".join(diagnosis), " ".join(symptoms),
+        " ".join(_format_medicine_line(m) for m in medicines),
+    ])
+    use_devanagari = _contains_devanagari(all_text_content)
+
+    font_clinic = _load_font("bold", FONT_SIZES["clinic_name"], use_devanagari)
+    font_doctor = _load_font("regular", FONT_SIZES["doctor_name"], use_devanagari)
+    font_address = _load_font("italic", FONT_SIZES["address"], use_devanagari)
+    font_label = _load_font("bold", FONT_SIZES["section_label"], use_devanagari)
+    font_body = _load_font("regular", FONT_SIZES["body"], use_devanagari)
+    font_body_bold = _load_font("bold", FONT_SIZES["body"], use_devanagari)
+    font_rx = _load_font("bold", FONT_SIZES["rx_symbol"], use_devanagari)
+    font_footer = _load_font("italic", FONT_SIZES["footer"], use_devanagari)
 
     # --- Pass 1: measure content on a scratch canvas to compute total height ---
     scratch = Image.new("RGB", (CANVAS_WIDTH, 10), COLOR_BG)
