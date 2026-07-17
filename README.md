@@ -79,6 +79,20 @@ Generate multilingual images only, without sending to WhatsApp:
 python main.py --generate-only
 ```
 
+Run the Streamlit frontend:
+
+```powershell
+streamlit run app/streamlit_app.py
+```
+
+Frontend modes:
+
+- Demo Data: runs the pipeline with built-in structured sample data.
+- Raw Text (NER): extracts entities from free text using the trained NER model, then continues translation/render/send.
+- Manual Structured Form: skips NER and uses doctor-entered structured fields directly.
+
+By default the frontend runs in generate-only behavior unless "Send to WhatsApp" is enabled and all Twilio/Cloudinary environment variables are set.
+
 ## Notes
 
 - The default demo data in `main.py` is useful for smoke testing the full pipeline.
