@@ -10,11 +10,15 @@ from pathlib import Path
 from typing import Dict, List, Tuple
 
 import streamlit as st
+from dotenv import load_dotenv
 
 ROOT_DIR = Path(__file__).resolve().parents[1]
 SRC_DIR = ROOT_DIR / "src"
 NER_DIR = SRC_DIR / "ner"
 DEFAULT_OUTPUT_DIR = ROOT_DIR / "generated_prescriptions" / "records"
+
+
+load_dotenv(ROOT_DIR / ".env")
 
 
 def _ensure_import_paths() -> None:

@@ -13,6 +13,8 @@ import argparse
 import sys
 from pathlib import Path
 
+from dotenv import load_dotenv
+
 
 ROOT_DIR = Path(__file__).resolve().parent
 SRC_DIR = ROOT_DIR / "src"
@@ -22,6 +24,9 @@ for path in (SRC_DIR, NER_DIR):
     path_str = str(path)
     if path_str not in sys.path:
         sys.path.insert(0, path_str)
+
+
+load_dotenv(ROOT_DIR / ".env")
 
 
 DEFAULT_PHONE_NUMBER = "+919518398826"
