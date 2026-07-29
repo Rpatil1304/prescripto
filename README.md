@@ -73,17 +73,6 @@ Run the Gradio frontend:
 python app/gradio_app.py
 ```
 
-## Gradio UI (Current)
-
-The current Gradio frontend is a single doctor form:
-
-- Input fields: patient details, symptoms/diagnosis text, prescription text, and WhatsApp number.
-- Optional fields: doctor/clinic details in a collapsible section.
-- One-click flow: NER extraction -> translation -> image generation -> WhatsApp send.
-- Output: a final status message only (no intermediate entity/JSON preview in the UI).
-
-The Gradio app requires all Twilio and Cloudinary environment variables because it performs WhatsApp delivery in its current flow.
-
 ## Notes
 
 - The demo data in `main.py` is useful for a quick smoke test.
