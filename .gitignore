@@ -22,3 +22,4 @@ models/mlflow_runs/
 # Local OS files
 Thumbs.db
 .DS_Store
+PROJECT_DOCUMENTATION.md
